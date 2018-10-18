@@ -37,7 +37,7 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
+remote-theme: minima
 
 plugins:
  - jekyll-feed
