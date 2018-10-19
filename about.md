@@ -4,6 +4,6 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+Robots in a fantasy wasteland fighting for scrap and surival.
 
 {% include footer.html %}
