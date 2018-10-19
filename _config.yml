@@ -17,7 +17,7 @@ disqus_shortname: 'your-disqus-shortname'
 # Details for the RSS feed generator
 url:            'https://fantasyrobotfighter.github.io'
 author:         'Fantasy Robot Fighter'
-authorTwitter:  '@fantasybotfighter'
+authorTwitter:  'fantasybotfighter'
 
 permalink:       /:year/:title/
 
