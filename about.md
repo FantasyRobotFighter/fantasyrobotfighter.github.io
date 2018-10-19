@@ -4,6 +4,6 @@ permalink: about/
 profile: true
 ---
 
-Robots in a fantasy wasteland fighting for scrap and surival.<br />Just building an RPG blog.<br />Pay no attention to the robot behind the dinosaur.
+Just building an RPG blog.<br />Robots in a fantasy wasteland fighting for scrap and surival.
 
 {% include footer.html %}
