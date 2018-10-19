@@ -1,7 +1,7 @@
 title: Minimal theme
 logo: /assets/img/Robot.jpg
 description: Fantasy Robot Fighter Games
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 twitter_username: FantasyBotFighter
