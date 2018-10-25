@@ -12,7 +12,7 @@ Give your divination wizard an interesting approach to augury by describing thei
 
 2. **Favomancy:** The casting of beans holds answers to untold mysteries. Where the kidney falls or the lentil lies can give you all the information you require concerning any enigma.  
 
-3. **Tyromancy:** Not just a delicious snack that stays fresh in the darkest of dungeons but also a natural focus for forecasting future events. The number of holes in the swiss or the way the mold grows about the gouda can reveal more than most people realize.  
+3. **Tyromancy:** Not just a delicious snack that stays fresh in the darkest of dungeons but also a natural focus for forecasting future events. The number of holes in the swiss or the way the mold grows about the gouda can reveal more than most realize.  
 
 4. **Cephalomancy:** Your skulls are bone maps that when traversed by the tips of your fingers tell tales of what was and what could be. You can pry across telling scalps or keep an extra skull hanging from your belt whose flapping jaw bespeaks prophecy when called upon.  
 
