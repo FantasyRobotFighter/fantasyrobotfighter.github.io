@@ -4,6 +4,8 @@ date:   2018-10-26 10:45:00
 description: Forboding fromage and bean tossing can be keys to unlocking mysteries
 ---
 
+![Upon the Large Skull - Arthur Rackham](./images/UponLargeSkull.jpg)
+
 Give your divination wizard an interesting approach to augury by describing their methods for scrying. You could even roll randomly on this d6 table to see how they go about predicting, identifying and detecting the unknown.  
 
 1. **Skatharomancy:** You keep a live beetle in your pocket or in a small cage that you let scurry through the dirt or dust so you can use its track patterns to discern and decipher untold events. If your beetle dies or escapes you’ll need to roll a nature check to capture a new one.  
