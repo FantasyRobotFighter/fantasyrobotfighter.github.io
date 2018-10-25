@@ -4,7 +4,7 @@ date:   2018-10-26 10:45:00
 description: Forboding fromage and bean tossing can be keys to unlocking mysteries
 ---
 
-![Upon the Large Skull - Arthur Rackham](../assets/images/UponLargeSkull.jpg)
+![Upon the Large Skull - Arthur Rackham](https://fantasyrobotfighter.github.io/assets/images/UponLargeSkull.jpg)
 
 Give your divination wizard an interesting approach to augury by describing their methods for scrying. You could even roll randomly on this d6 table to see how they go about predicting, identifying and detecting the unknown.  
 
