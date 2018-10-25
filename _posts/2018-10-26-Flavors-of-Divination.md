@@ -6,7 +6,6 @@ description: Forboding fromage and bean tossing can be keys to unlocking mysteri
 
 Give your divination wizard an interesting approach to augury by describing their methods for scrying. You could even roll randomly on this d6 table to see how they go about predicting, identifying and detecting the unknown.  
 
-
 1. **Skatharomancy:** You keep a live beetle in your pocket or in a small cage that you let scurry through the dirt or dust so you can use its track patterns to discern and decipher untold events. If your beetle dies or escapes you’ll need to roll a nature check to capture a new one.  
 
 2. **Favomancy:** The casting of beans holds answers to untold mysteries. Where the kidney falls or the lentil lies can give you all the information you require concerning any enigma.  
@@ -19,8 +18,8 @@ Give your divination wizard an interesting approach to augury by describing thei
 
 6. **Numismatomancy:** Life is black and white, good or evil, lawful or chaotic and all you require to determine which is which is a flip of a coin.  
 
-
 Want more? Check out [Wikipedia’s page on Methods of Divination](https://en.wikipedia.org/wiki/Methods_of_divination). 
+
 
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
