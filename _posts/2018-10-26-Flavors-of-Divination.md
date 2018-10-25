@@ -21,5 +21,6 @@ Give your divination wizard an interesting approach to augury by describing thei
 Want more? Check out [Wikipedia’s page on Methods of Divination](https://en.wikipedia.org/wiki/Methods_of_divination). 
 
 
+
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
