@@ -6,7 +6,7 @@ description: Forboding fromage and bean tossing can be keys to unlocking mysteri
 
 ![Upon the Large Skull - Arthur Rackham](https://fantasyrobotfighter.github.io/assets/images/UponLargeSkull.jpg)
 
-I found myself reading [Wikipedia’s Methods of Divination](https://en.wikipedia.org/wiki/Methods_of_divination) page and just for fun, I put together a handful of my favorites methods in the below d6 table so one can randomly roll to see how their practitioner of augury goes about predicting, identifying and detecting the unknown.
+I found myself reading [Wikipedia’s Methods of Divination](https://en.wikipedia.org/wiki/Methods_of_divination) page and just for fun, I put together a handful of my favorites into the below d6 table so one can randomly roll to see how their practitioner of augury goes about predicting, identifying and detecting the unknown.
 
 1. **Skatharomancy:** You keep a live beetle in your pocket or in a small cage that you let scurry through the dirt or dust so you can use its track patterns to discern and decipher untold events. If your beetle dies or escapes you’ll need to roll a nature or wisdom check to capture a new one.  
 
