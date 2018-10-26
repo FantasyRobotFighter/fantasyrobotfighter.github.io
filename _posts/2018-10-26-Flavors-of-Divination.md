@@ -6,7 +6,7 @@ description: Forboding fromage and bean tossing can be keys to unlocking mysteri
 
 ![Upon the Large Skull - Arthur Rackham](https://fantasyrobotfighter.github.io/assets/images/UponLargeSkull.jpg)
 
-Give your divination wizard an interesting approach to augury by describing their methods for scrying. You could even roll randomly on this d6 table to see how they go about predicting, identifying and detecting the unknown.  
+Give your divination wizard an interesting approach to augury by describing their methods for scrying. I put together a handful of my favorites below so you can randomly roll (d6) to see how a practitioner of the divination school goes about predicting, identifying and detecting the unknown.  
 
 1. **Skatharomancy:** You keep a live beetle in your pocket or in a small cage that you let scurry through the dirt or dust so you can use its track patterns to discern and decipher untold events. If your beetle dies or escapes you’ll need to roll a nature or wisdom check to capture a new one.  
 
@@ -20,7 +20,7 @@ Give your divination wizard an interesting approach to augury by describing thei
 
 6. **Numismatomancy:** Life is black and white, good or evil, lawful or chaotic and all you require to determine which is which is a flip of a coin.  
 
-Want more? Check out [Wikipedia’s page on Methods of Divination](https://en.wikipedia.org/wiki/Methods_of_divination). 
+There is a massive list of these on [Wikipedia’s page on Methods of Divination](https://en.wikipedia.org/wiki/Methods_of_divination) page that you can plow through for more ideas. 
 
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
