@@ -20,7 +20,7 @@ Give your divination wizard an interesting approach to augury by describing thei
 
 6. **Numismatomancy:** Life is black and white, good or evil, lawful or chaotic and all you require to determine which is which is a flip of a coin.  
 
-There is a massive list of these on [Wikipedia’s page on Methods of Divination](https://en.wikipedia.org/wiki/Methods_of_divination) page that you can plow through for more ideas. 
+There is a massive list of these on [Wikipedia’s Methods of Divination](https://en.wikipedia.org/wiki/Methods_of_divination) page that you can plow through for more ideas. 
 
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
