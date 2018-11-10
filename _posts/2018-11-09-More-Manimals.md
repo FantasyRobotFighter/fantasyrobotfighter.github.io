@@ -176,6 +176,9 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		<td width="350" padding="2px">Roll again on this table, then roll on table 1-6 Mutant Appearance
 		</td>
 	</tr>
+</table>
+
+I suspect I’ll continue to expand upon this new list of Manimals. Many of these may be well extinct by the time the events of MCC take place so a random table of origins might be my next addition. I also would like to incorprate their innate animal abilities in some fashion, separating them out from the random mutations a bit. 
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
