@@ -10,11 +10,11 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 
 <table>
 	<tr>
-		<td colspan="3" width="700" padding="2px"><b>Revised Table 1-7: Manimal Sub-Type</b>
+		<td colspan="3" width="1000" padding="2px"><b>Revised Table 1-7: Manimal Sub-Type</b>
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>1</b>
+		<td width="100" padding="2px"><b>1</b>
 		</td>
 		<td width="100" padding="2px"><b>Primate</b>
 		</td>
@@ -22,7 +22,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>2-3</b>
+		<td width="100" padding="2px"><b>2-3</b>
 		</td>
 		<td width="100" padding="2px"><b>Canine</b>
 		</td>
@@ -30,7 +30,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>4-5</b>
+		<td width="100" padding="2px"><b>4-5</b>
 		</td>
 		<td width="100" padding="2px"><b>Feliformia</b>
 		</td>
@@ -38,7 +38,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>6-7</b>
+		<td width="100" padding="2px"><b>6-7</b>
 		</td>
 		<td width="100" padding="2px"><b>Ursine</b>
 		</td>
@@ -46,7 +46,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>8-9</b>
+		<td width="100" padding="2px"><b>8-9</b>
 		</td>
 		<td width="100" padding="2px"><b>Bovidae</b>
 		</td>
@@ -54,7 +54,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>10-11</b>
+		<td width="100" padding="2px"><b>10-11</b>
 		</td>
 		<td width="100" padding="2px"><b>Cervidae</b>
 		</td>
@@ -62,7 +62,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>12</b>
+		<td width="100" padding="2px"><b>12</b>
 		</td>
 		<td width="100" padding="2px"><b>Equidae</b>
 		</td>
@@ -70,7 +70,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>13</b>
+		<td width="100" padding="2px"><b>13</b>
 		</td>
 		<td width="100" padding="2px"><b>Suidae</b>
 		</td>
@@ -78,7 +78,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>14-15</b>
+		<td width="100" padding="2px"><b>14-15</b>
 		</td>
 		<td width="100" padding="2px"><b>Rodentia</b>
 		</td>
@@ -86,7 +86,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>16</b>
+		<td width="100" padding="2px"><b>16</b>
 		</td>
 		<td width="100" padding="2px"><b>Eulipotyphla</b>
 		</td>
@@ -94,7 +94,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>17</b>
+		<td width="100" padding="2px"><b>17</b>
 		</td>
 		<td width="100" padding="2px"><b>Mustelidae</b>
 		</td>
@@ -102,7 +102,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>18</b>
+		<td width="100" padding="2px"><b>18</b>
 		</td>
 		<td width="100" padding="2px"><b>Amphibia</b>
 		</td>
@@ -110,7 +110,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>19-20</b>
+		<td width="100" padding="2px"><b>19-20</b>
 		</td>
 		<td width="100" padding="2px"><b>Avian</b>
 		</td>
@@ -121,7 +121,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>21-22</b>
+		<td width="100" padding="2px"><b>21-22</b>
 		</td>
 		<td width="100" padding="2px"><b>Insecta</b>
 		</td>
@@ -129,7 +129,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>23</b>
+		<td width="100" padding="2px"><b>23</b>
 		</td>
 		<td width="100" padding="2px"><b>Marsupial</b>
 		</td>
@@ -137,7 +137,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>24</b>
+		<td width="100" padding="2px"><b>24</b>
 		</td>
 		<td width="100" padding="2px"><b>Megafauna</b>
 		</td>
@@ -145,7 +145,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>25-26</b>
+		<td width="100" padding="2px"><b>25-26</b>
 		</td>
 		<td width="100" padding="2px"><b>Reptile</b>
 		</td>
@@ -153,7 +153,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 	<tr>
-		<td width="70" padding="2px"><b>27</b>
+		<td width="100" padding="2px"><b>27</b>
 		</td>
 		<td width="100" padding="2px"><b>Chiroptera</b>
 		</td>
@@ -161,7 +161,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 		<tr>
-		<td width="70" padding="2px"><b>28</b>
+		<td width="100" padding="2px"><b>28</b>
 		</td>
 		<td width="100" padding="2px"><b>Monotreme</b>
 		</td>
@@ -169,7 +169,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 		</td>
 	</tr>
 		<tr>
-		<td width="70" padding="2px"><b>29-30</b>
+		<td width="100" padding="2px"><b>29-30</b>
 		</td>
 		<td width="100" padding="2px"><b>Roll again</b>
 		</td>
