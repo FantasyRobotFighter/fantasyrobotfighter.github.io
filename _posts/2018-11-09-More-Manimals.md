@@ -10,7 +10,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 
 <table>
 	<tr>
-		<td colspan="3" width="1000" padding="2px"><b>Revised Table 1-7: Manimal Sub-Type</b>
+		<td colspan="3" width="1000" padding="2px"><b>Revised Table 1-7: Manimal Sub-Type (d30)</b>
 		</td>
 	</tr>
 	<tr>
