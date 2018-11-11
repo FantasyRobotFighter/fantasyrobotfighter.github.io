@@ -147,7 +147,7 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 	<tr>
 		<td width="100" padding="2px"><b>25-26</b>
 		</td>
-		<td width="100" padding="2px"><b>Reptile</b>
+		<td width="100" padding="2px"><b>Reptilia</b>
 		</td>
 		<td width="330" padding="2px">(1) lizard (2) alligator/crocodile (3) snake (4) turtle
 		</td>
