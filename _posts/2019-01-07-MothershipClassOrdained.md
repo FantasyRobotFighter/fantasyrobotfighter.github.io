@@ -13,7 +13,7 @@ Ordained characters believe in the will of the gods and quite possibly in an aft
 
 <table>
 	<tr>
-		<td colspan="2" width="530" padding="2px"><b>**Starting Skills** (+2 Skill Points)</b>
+		<td colspan="2" width="530" padding="2px"><b>Starting Skills</b> (+2 Skill Points)
 		</td>
 	</tr>
 	<tr>
@@ -45,46 +45,46 @@ Ordained characters believe in the will of the gods and quite possibly in an aft
 
 <table>
 	<tr>
-		<td colspan="3" width="530" padding="2px"><b>**Starting Saves**</b>
+		<td colspan="3" width="530" padding="2px"><b>Starting Saves</b>
 		</td>
 	</tr>
 	<tr>
 		<td width="60" padding="2px"><b> </b>
 		</td>
-		<td width="230" padding="2px"><b>Sanity: </b>
+		<td width="130" padding="2px"><b>Sanity: </b>
 		</td>
-		<td width="140" padding="2px"> 30
-		</td>
-	</tr>
-	<tr>
-		<td width="60" padding="2px"><b> </b>
-		</td>
-		<td width="230" padding="2px"><b>Fear: </b>
-		</td>
-		<td width="140" padding="2px"> 45
+		<td width="240" padding="2px"> 30
 		</td>
 	</tr>
 	<tr>
 		<td width="60" padding="2px"><b> </b>
 		</td>
-		<td width="230" padding="2px"><b>Body: </b>
+		<td width="130" padding="2px"><b>Fear: </b>
 		</td>
-		<td width="140" padding="2px"> 30
+		<td width="240" padding="2px"> 45
 		</td>
 	</tr>
 	<tr>
 		<td width="60" padding="2px"><b> </b>
 		</td>
-		<td width="230" padding="2px"><b>Armor: </b>
+		<td width="130" padding="2px"><b>Body: </b>
 		</td>
-		<td width="140" padding="2px"> 25
+		<td width="240" padding="2px"> 30
+		</td>
+	</tr>
+	<tr>
+		<td width="60" padding="2px"><b> </b>
+		</td>
+		<td width="130" padding="2px"><b>Armor: </b>
+		</td>
+		<td width="240" padding="2px"> 25
 		</td>
 	</tr>
 </table>
 
 <table>
 	<tr>
-		<td colspan="2" width="530" padding="2px"><b>**New Loadout: EXPEDITION**</b>
+		<td colspan="2" width="530" padding="2px"><b>New Loadout: EXPEDITION</b>
 		</td>
 	</tr>
 	<tr>
@@ -133,7 +133,7 @@ Ordained characters believe in the will of the gods and quite possibly in an aft
 
 <table>
 	<tr>
-		<td width="530" padding="2px"><b>**Stress &amp; Panic**</b>
+		<td width="530" padding="2px"><b>Stress &amp; Panic</b>
 		</td>
 	</tr>
 	<tr>
