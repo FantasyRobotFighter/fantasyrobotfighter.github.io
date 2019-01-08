@@ -14,7 +14,7 @@ Opening the book to gain insight on another person will almost always result in 
 
 <table>
 	<tr>
-		<td colspan="3" width="600" padding="2px"><b>The Book of Thumbing was...</b>
+		<td colspan="2" width="530" padding="2px"><b>The Book of Thumbing was...</b>
 		</td>
 	</tr>
 	<tr>
@@ -57,7 +57,7 @@ Opening the book to gain insight on another person will almost always result in 
 
 <table>
 	<tr>
-		<td colspan="3" width="600" padding="2px"><b>Its pages contain...</b>
+		<td colspan="2" width="530" padding="2px"><b>Its pages contain...</b>
 		</td>
 	</tr>
 	<tr>
@@ -100,7 +100,7 @@ Opening the book to gain insight on another person will almost always result in 
 
 <table>
 	<tr>
-		<td colspan="3" width="600" padding="2px"><b>On a fumbled Willpower save...</b>
+		<td colspan="2" width="5300" padding="2px"><b>On a fumbled Willpower save...</b>
 		</td>
 	</tr>
 	<tr>
