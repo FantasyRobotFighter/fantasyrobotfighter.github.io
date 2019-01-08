@@ -174,10 +174,7 @@ Ordained characters believe in the will of the gods and quite possibly in an aft
 </table>
 
 **Inspiration:**
-_Ancillary Justice_ by Ann Leckie
-_The Sparrow_ by Mary Doria Russell
-_Anathem_ by Neal Stephenson
-_Firefly_ by Joss Whedon
+_Ancillary Justice_ by Ann Leckie, _The Sparrow_ by Mary Doria Russell, _Anathem_ by Neal Stephenson, _Firefly_ by Joss Whedon
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
