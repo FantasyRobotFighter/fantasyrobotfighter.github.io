@@ -147,7 +147,7 @@ Ordained characters believe in the will of the gods and quite possibly in an aft
 
 <table>
 	<tr>
-		<td width="530" padding="2px"><b>**New Expert Skill**</b>
+		<td width="530" padding="2px"><b>New Expert Skill</b>
 		</td>
 	</tr>
 	<tr>
@@ -161,7 +161,7 @@ Ordained characters believe in the will of the gods and quite possibly in an aft
 
 <table>
 	<tr>
-		<td width="530" padding="2px"><b>**New Master Skill**</b>
+		<td width="530" padding="2px"><b>New Master Skill</b>
 		</td>
 	</tr>
 	<tr>
