@@ -152,7 +152,7 @@ Ordained characters believe in the will of the gods and quite possibly in an aft
 	</tr>
 	<tr>
 		<td width="530" padding="2px">
-		_Ceremony_ (requires Theology & Linguistics)
+		<b><i>Ceremony</i></b> (requires Theology & Linguistics)
 		<br />
 		You are familiar with and can perform ritualistic ceremonies significant to your religion. These include rites of passage, holiday celebrations, the public interpretation of scripture via religious services, and the anointing or consecrating of people, places and things.
 		</td>
@@ -166,7 +166,7 @@ Ordained characters believe in the will of the gods and quite possibly in an aft
 	</tr>
 	<tr>
 		<td width="530" padding="2px">
-		_Prophecy_ (requires Ceremony & Mysticism)
+		<b><i>Prophecy</i></b> (requires Ceremony & Mysticism)
 		<br />
 		Your deity speaks directly to you and you can interpret their will. Fellow believers come to you for divine knowledge and many others trust your wisdom when dealing with unpredictable situations.
 		</td>
