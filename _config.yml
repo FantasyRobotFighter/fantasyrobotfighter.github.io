@@ -1,6 +1,6 @@
 name: Fantasy Robot Fighter
 description: Short Swords & Short Circuits
-meta_description: "Blogging about RPGs and that OSR thing."
+meta_description: "Hacking and rewiring RPGs."
 
 aboutPage: true
 
@@ -15,7 +15,7 @@ disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'https://fantasyrobotfighter.github.io'
+url:            'https://www.fantasyrobotfighter.com'
 author:         'Fantasy Robot Fighter'
 authorTwitter:  'fantasybotfight'
 
