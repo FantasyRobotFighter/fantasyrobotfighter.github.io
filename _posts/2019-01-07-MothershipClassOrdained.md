@@ -10,6 +10,7 @@ A Chaplain, preacher, or missionary who is ordained by a prominent religious ins
 
 Ordained characters believe in the will of the gods and quite possibly in an afterlife as well. Therefore, they are not fearful of death the way others are, as they do not necessarily see death as the end of existence, but only as an end to the physical body. 
 
+**+5** to Intellect and Strength **-5** to Combat
 
 <table>
 	<tr>
