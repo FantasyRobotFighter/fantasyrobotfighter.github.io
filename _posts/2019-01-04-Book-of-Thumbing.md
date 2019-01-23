@@ -1,6 +1,6 @@
 ---
 title:  "The Book of Thumbing"
-date:   2019-12-04 12:22:00
+date:   2019-01-04 12:22:00
 description: A Magically Cursed Item for Dungeon Crawl Classics
 ---
 
