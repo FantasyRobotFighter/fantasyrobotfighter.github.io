@@ -10,7 +10,7 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 20
 domain_name: 'https://fantasyrobotfighter.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-74510536-3'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
