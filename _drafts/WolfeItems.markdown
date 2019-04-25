@@ -1,0 +1,22 @@
+---
+title:  "Making An Old Game New Again"
+date:   2019-04-24 12:24:00
+description: An introduction to The Tribots. A homebrewed game I made as a kid and am redesigning 28 years later.
+---
+
+![MS. Journey Bot in Watercolors - J Ryan Buller](https://fantasyrobotfighter.github.io/assets/images/JourneyBot.png)
+
+One of the many reasons I love reading Gene Wolfe's books is for the emotional investment he can create for his protagonist's belongings. The personal effects of Wolfe's characters are multidimensional. Always an extension of their psyche and often symbols of their traits or ambitions. As readers, we feel as much grief for their loss as we would the main character because they are characters as well, appearing throughout the story as steady constants we can always rely on until they are unexpectedly lost.
+
+I've recently re-read _Latro in the Mist_ and having also been steeping myself in playing and designing RPGs, couldn't help but try and draw comparisons between Latro's belongings and the items we as players list on our character sheets. If you haven't read Latro in the Mist, or any Gene Wolfe book for that matter, it's high time you did yourself a favor and cracked one open. You won't regret it (unless, of course, you hate things that are awesome).
+
+I won't ruin Latro in the Mist for you with spoilers but I will say that Latro's sword, armor, and most importantly his book and stylus are key players in his story and their whereabouts and travels work to enhance his own. Wolfe doesn't make items magical in the same way Dungeons & Dragons does. A sword like Latro's wasn't forged in the depths of the earth by dwarves, with edges glimmering from arcane energies. It's just a sword, a falcata, and yet it has seen war, drawn blood, and bears a name. And because Latro relies on it, because he draws it even upon the gods when he must, it becomes a thing of magic. It is precious because it can be the deciding factor between life and death, and so as a reader, we cringe inside when it is apart from him and not securely sheathed at his side.
+
+Latro in the Mist isn't the only book where Wolfe's characters have belongings that play a large role in the story. The most famous would be Severian's sword, Terminus Est from the _Book of the New Sun_. His sword and his sabretache are always close to him. His sabretache being an item for securing other, more precious items, and so we value it as being part of him. There is hardly a chapter where he is not rummaging through it to locate one item or another from his journies. Terminus Est is both a symbol of his profession and a reliable partner. He uses it to both earn a living and defend himself.
+
+When I look at the items on my character sheet I wonder if I can make them more like the items carried by Latro and Severian. I think a lot of players are great with decorating their characters with unique items to bring out their personality but how often are we using them during play? Referencing that old and tattered book of lore, kissing that lucky pendant, or meticulously cleaning our favorite dagger? Are our items really extensions of ourselves or just pretty things from a random item table? If your barbarian has a lucky necklace made from twine and a giant's toe, then what significance can it play in your character's story? Does he nervously chew on it's massive and deteriorating toenail? Was it the token of a great battle that she believes brings luck, even though there is no mechanical modifier tied to it? Whatever it is or does, bring it to the forefront of your narrative often and not just at character creation. Make it truly belong to your character so when the GM decides it is lost or endangered, you scramble to save it just as you would a fellow player.
+
+This post was mostly an exercise in thought and an encouragement to read some Gene Wolfe. The way he portrays the personal effects of his characters is truly unique and certainly worth investigating. There is no dice mechanic that can mimic Wolfe's style but by drawing inspiration from his writing we can add some flavor to our characters and their items. As DMs, it might be worth considering that magical items don't always have to carry a +1 modifier but instead can be situational or something of personal value and usefulness that may at times turn the tide for the player. It's not the bonuses that make an item interesting, it's our attachment to it.
+
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
