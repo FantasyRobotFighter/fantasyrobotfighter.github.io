@@ -1,6 +1,6 @@
 ---
 title: The Tribots of Mraf
-permalink: tribots/
+permalink: tribots
 profile: true
 ---
 

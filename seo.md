@@ -1,5 +1,5 @@
 ---
-title: Search Engine Optimization
+title: RPGS and Search Engine Optimization
 permalink: seo/
 profile: true
 ---
