@@ -1,7 +1,7 @@
 ---
 title:  "Return of The Tribots"
 date:   2019-04-25 10:15:00
-description: A homebrew game I made as a kid and am redesigning 28 years later.
+description: A homebrew game I made as a kid and am redesigning 28 years later
 ---
 
 ![MS. Journey Bot in Watercolors - J Ryan Buller](https://fantasyrobotfighter.github.io/assets/images/JourneyBot.png)
@@ -20,7 +20,7 @@ The second goal is to address my issues with current robot character mechanics i
 
 The final goal is the one I'm still working on the most. It is to create a world for the Tribots that is unique, fun and is something I would enjoy exploring if I were to play the game (back to the first goal again). The environment needs to jive with the characters mechanically and not just be a bunch of flavor text. It needs to be a part of who they are. Offering up exploration opportunities and mysterious dangers that keep a player engrossed and changes how the game plays. It'll be connected to the character improvement mechanic (as there will not be levels) by offering up ways to customize your character, making your Tribot unique and interesting as you adventure. For me, this is the hardest of the goals to achieve but I believe it will be the most rewarding to make a reality.
 
-I'm writing about this now because I already have quite a bit of it drafted and I'll be posting about it as I continue to work on it. I plan on releasing it all under the OGL to the DiY/OSR community as I've taken so much inspiration from other game designers that I feel it's very important that I contribute back. [White Hack](https://whitehackrpg.wordpress.comß), [Into the Odd](http://www.bastionland.com/), and [Dungeon Crawl Classics](http://goodman-games.com) have been major contributors to the rules I've already put down and I think you'll see their influences almost immediately. Hopefully, my spin on these ideas is an interesting one to read about and if I'm really lucky, fun to play as well.
+I'm writing about this now because I already have quite a bit of it drafted and I'll be posting about it as I continue to work on it. I plan on releasing it all under the OGL to the DiY/OSR community as I've taken so much inspiration from other game designers that I feel it's very important that I contribute back. [White Hack](https://whitehackrpg.wordpress.com), [Into the Odd](http://www.bastionland.com), and [Dungeon Crawl Classics](http://goodman-games.com) have been major contributors to the rules I've already put down and I think you'll see their influences almost immediately. Hopefully, my spin on these ideas is an interesting one to read about and if I'm really lucky, fun to play as well.
 
 So, that's one project I'll be working on here. Another is an idea that recently came to me at a marketing conference I attended. I'll elaborate more on this later but the basics will be using my blog to help people in the DiY game industry get better at Search Engine Optimization (SEO) and marketing themselves using Google's tools. In my opinion, it's something not discussed very often by independent designers and writers. I'll be optimizing my own blog and sharing my journey so other's can learn to do the same. Should be fun! More to come!
 
