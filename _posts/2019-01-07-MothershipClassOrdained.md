@@ -186,7 +186,7 @@ _Ancillary Justice_ by Ann Leckie, _The Sparrow_ by Mary Doria Russell, _Anathem
       },
  "headline": "The Ordained",
  "alternativeHeadline": "A religious inspired class for the Mothership RPG",
- "image": "https://www.fantasyrobotfighter.com/assets/images/PocketPerspective.pngg",
+ "image": "https://www.fantasyrobotfighter.com/assets/images/PocketPerspective.png",
  "genre": "CreativeWork", 
  "keywords": "Mothership Class RPG Ordained", 
  "wordcount": "344",
