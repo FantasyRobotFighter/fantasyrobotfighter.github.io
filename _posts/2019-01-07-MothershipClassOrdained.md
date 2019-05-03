@@ -177,5 +177,28 @@ Ordained characters believe in the will of the gods and quite possibly in an aft
 **Inspiration:**
 _Ancillary Justice_ by Ann Leckie, _The Sparrow_ by Mary Doria Russell, _Anathem_ by Neal Stephenson, _Firefly_ by Joss Whedon
 
+<script type="application/ld+json">
+{ "@context": "https://schema.org", 
+ "@type": "BlogPosting",
+ "headline": "The Ordained",
+ "alternativeHeadline": "A religious inspired class for the Mothership RPG",
+ "image": "https://www.fantasyrobotfighter.com/assets/images/PocketPerspective.pngg",
+ "genre": "CreativeWork", 
+ "keywords": "Mothership Class RPG Ordained", 
+ "wordcount": "344",
+ "publisher": "Fantasy Robot Fighter",
+ "url": "http://www.fantasyrobotfighter.com",
+ "datePublished": "2019-01-08",
+ "dateCreated": "2019-01-08",
+ "dateModified": "2019-01-08",
+ "description": "The Ordained: A religious class for the Mothership RPG",
+ "articleBody": "A Chaplain, preacher, or missionary who is ordained by a prominent religious institution and anointed to go out into the galaxy and perform the work of the gods. They are service driven, accustomed to strenuous volunteer work, and no stranger to the hunger pangs associated with fasting. They offer comfort and encouragement to others with their knowledge of theology and the promises of redemption.",
+   "author": {
+    "@type": "Person",
+    "name": "Ryan Buller"
+  }
+ }
+</script>
+
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
