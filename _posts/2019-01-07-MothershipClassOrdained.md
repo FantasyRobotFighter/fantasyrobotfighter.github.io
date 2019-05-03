@@ -2,6 +2,7 @@
 title:  "The Ordained"
 date:   2019-01-08 10:14:00
 description: A religious inspired class for the Mothership RPG
+---
 
 <script type="application/ld+json">
 { "@context": "https://schema.org", 
@@ -25,8 +26,6 @@ description: A religious inspired class for the Mothership RPG
   }
  }
 </script>
-
----
 
 ![MS. I Took Out My Pocket-Perspective - Paul Gavarni](https://fantasyrobotfighter.github.io/assets/images/PocketPerspective.png)
 
