@@ -186,10 +186,10 @@ _Ancillary Justice_ by Ann Leckie, _The Sparrow_ by Mary Doria Russell, _Anathem
  "genre": "CreativeWork", 
  "keywords": "Mothership Class RPG Ordained", 
  "wordcount": "344",
- "publisher": {
-        "@type": "Organization",
+ "publisher": [
+ 	{	"@type": "Organization",
         "name": "Fantasy Robot Fighter",
-    }
+    } ]
  "url": "http://www.fantasyrobotfighter.com",
  "datePublished": "2019-01-08",
  "dateCreated": "2019-01-08",
