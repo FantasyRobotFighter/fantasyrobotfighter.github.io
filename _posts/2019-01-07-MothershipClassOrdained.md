@@ -2,6 +2,30 @@
 title:  "The Ordained"
 date:   2019-01-08 10:14:00
 description: A religious inspired class for the Mothership RPG
+
+<script type="application/ld+json">
+{ "@context": "https://schema.org", 
+ "@type": "BlogPosting",
+ "headline": "The Ordained",
+ "alternativeHeadline": "A religious inspired class for the Mothership RPG",
+ "image": "https://www.fantasyrobotfighter.com/assets/images/PocketPerspective.pngg",
+ "genre": "CreativeWork", 
+ "keywords": "Mothership Class RPG Ordained", 
+ "wordcount": "344",
+ "publisher": "Fantasy Robot Fighter",
+ "url": "http://www.fantasyrobotfighter.com",
+ "datePublished": "2019-01-08",
+ "dateCreated": "2019-01-08",
+ "dateModified": "2019-01-08",
+ "description": "The Ordained: A religious class for the Mothership RPG",
+ "articleBody": "A Chaplain, preacher, or missionary who is ordained by a prominent religious institution and anointed to go out into the galaxy and perform the work of the gods. They are service driven, accustomed to strenuous volunteer work, and no stranger to the hunger pangs associated with fasting. They offer comfort and encouragement to others with their knowledge of theology and the promises of redemption.",
+   "author": {
+    "@type": "Person",
+    "name": "Ryan Buller"
+  }
+ }
+</script>
+
 ---
 
 ![MS. I Took Out My Pocket-Perspective - Paul Gavarni](https://fantasyrobotfighter.github.io/assets/images/PocketPerspective.png)
