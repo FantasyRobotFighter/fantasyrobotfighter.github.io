@@ -129,7 +129,43 @@ Opening the book to gain insight on another person will almost always result in 
 	</tr>
 </table>
 
-Alternate names for the "Book of Thumbing" include: _Codex of Friends, FaceTome, or The Volume of Tendentious Acquaintances_.
+Alternate names for the "Book of Thumbing" includes _Codex of Friends, FaceTome, or The Volume of Tendentious Acquaintances_.
+
+<script type="application/ld+json">
+{ "@context": "https://schema.org", 
+ "@type": "BlogPosting",
+ "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.fantasyrobotfighter.com/2019/Book-of-Thumbing/"
+      },
+ "headline": "The Book of Thumbing",
+ "alternativeHeadline": "A Magical Item for DCC Called The Book of Thumbing",
+ "image": "https://www.fantasyrobotfighter.com/assets/images/PocketPerspective.png",
+ "genre": "CreativeWork", 
+ "keywords": "Magical Item Book Dungeon Crawl Classics", 
+ "wordcount": "720",
+ "publisher": {	
+ 		"@type": "Organization",
+        "name": "Fantasy Robot Fighter",
+		"url": "http://www.fantasyrobotfighter.com",
+		"logo": {
+		    "@type": "ImageObject",
+		    "url": "https://www.fantasyrobotfighter.com/assets/images/avatar.png",
+		    "width": 80,
+		    "height": 80
+		}
+    },
+ "datePublished": "2019-01-04",
+ "dateCreated": "2019-01-04",
+ "dateModified": "2019-01-04",
+ "description": "The Book of Thumbing is an enchanted book bound in the skin of opposable thumbs and dyed a heinous bright blue.",
+ "articleBody": "Any person who stumbles upon this book will find pages upon pages of indiscriminate data on a selection of random people all neatly written in a continuously updating black ink. Through its pages a reader will be privy to a vast amount of information on various people’s past and present activities. The data updates itself with new information every time the book is opened, causing the reader to feel inclined to check it often. The book does not display attribute scores, skills or abilities but rather information on where a person has been, who they are with, how they are feeling, what their political stance is, and various drawings of food they have recently eaten.",
+   "author": {
+    "@type": "Person",
+    "name": "Ryan Buller"
+  }
+ }
+</script>
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com

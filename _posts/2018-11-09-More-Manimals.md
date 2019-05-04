@@ -6,7 +6,7 @@ description: Expanding upon the Mutant Crawl Classics manimal sub-type table
 
 ![A Good Monk - Wilhelm von Kaulbach](https://fantasyrobotfighter.github.io/assets/images/AGoodMonk.png)
 
-As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and After the Bomb, I felt right at home reading through the random insanity that is Mutant Crawl Classics. I’d been wanting a game that could present a setting and rules for mutant animals with the same gonzo style that Palladium did for TMNT (The Feral RPG is another good one). However, as exciting as it was to read about MCC’s manimal class, I couldn’t help but feel the list of choices were a tad too small for my taste. There is a lot of potential to expand upon manimals and so I couldn’t resist home-brewing up a new Manimal Sub-Type table (p.20 of the MCC core rulebook) to offer an expanded selection of mutant animals players can roll for. 
+As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and After the Bomb, I felt right at home reading through the random insanity that is Mutant Crawl Classics. I’d been wanting a game that could present a setting and rules for mutant animals with the same gonzo style that Palladium did for TMNT (The Feral RPG is another good one). However, as exciting as it was to read about MCC’s manimal class, I couldn’t help but feel the list of choices was a tad too small for my taste. There is a lot of potential to expand upon manimals and so I couldn’t resist home-brewing up a new Manimal Sub-Type table (p.20 of the MCC core rulebook) to offer an expanded selection of mutant animals players can roll for. 
 
 <table>
 	<tr>
@@ -179,6 +179,42 @@ As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and A
 </table>
 
 I suspect I’ll continue to expand upon this new list of Manimals. Many of these may be well extinct by the time the events of MCC take place so a random table of origins might be my next addition. I also would like to incorprate their innate animal abilities in some fashion, separating them out from the random mutations a bit. 
+
+<script type="application/ld+json">
+{ "@context": "https://schema.org", 
+ "@type": "BlogPosting",
+ "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.fantasyrobotfighter.com/2018/More-Manimals/"
+      },
+ "headline": "More Manimals for MCC",
+ "alternativeHeadline": "Add More Manimal Sub-Types to Mutant Crawl Classics",
+ "image": "https://www.fantasyrobotfighter.com/assets/images/PocketPerspective.png",
+ "genre": "CreativeWork", 
+ "keywords": "Mutant Crawl Classics manimals table sub-type", 
+ "wordcount": "470",
+ "publisher": {	
+ 		"@type": "Organization",
+        "name": "Fantasy Robot Fighter",
+		"url": "http://www.fantasyrobotfighter.com",
+		"logo": {
+		    "@type": "ImageObject",
+		    "url": "https://www.fantasyrobotfighter.com/assets/images/avatar.png",
+		    "width": 80,
+		    "height": 80
+		}
+    },
+ "datePublished": "2018-11-09",
+ "dateCreated": "2018-11-09",
+ "dateModified": "2018-11-09",
+ "description": "An expanded selection of Mutant Crawl Classics manimal sub-types",
+ "articleBody": "As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and After the Bomb, I felt right at home reading through the random insanity that is Mutant Crawl Classics. I’d been wanting a game that could present a setting and rules for mutant animals with the same gonzo style that Palladium did for TMNT (The Feral RPG is another good one). However, as exciting as it was to read about MCC’s manimal class, I couldn’t help but feel the list of choices was a tad too small for my taste. There is a lot of potential to expand upon manimals and so I couldn’t resist home-brewing up a new Manimal Sub-Type table (p.20 of the MCC core rulebook) to offer an expanded selection of mutant animals players can roll for.",
+   "author": {
+    "@type": "Person",
+    "name": "Ryan Buller"
+  }
+ }
+</script>
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com

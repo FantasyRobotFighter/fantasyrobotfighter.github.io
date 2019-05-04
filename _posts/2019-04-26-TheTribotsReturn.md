@@ -24,5 +24,41 @@ I'm writing about this now because I already have quite a bit of it drafted and 
 
 So, that's one project I'll be working on here. Another is an idea that recently came to me at a marketing conference I attended. I'll elaborate more on this later but the basics will be using my blog to help people in the DiY game industry get better at Search Engine Optimization (SEO) and marketing themselves using Google's tools. In my opinion, it's something not discussed very often by independent designers and writers. I'll be optimizing my own blog and sharing my journey so other's can learn to do the same. Should be fun! More to come!
 
+<script type="application/ld+json">
+{ "@context": "https://schema.org", 
+ "@type": "BlogPosting",
+ "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.fantasyrobotfighter.com/2019/TheTribotsReturn/"
+      },
+ "headline": "Return of The Tribots",
+ "alternativeHeadline": "Redesigning an RPG From My Youth",
+ "image": "https://www.fantasyrobotfighter.com/assets/images/PocketPerspective.png",
+ "genre": "CreativeWork", 
+ "keywords": "Robots Tribots RPG Game Design", 
+ "wordcount": "1090",
+ "publisher": {	
+ 		"@type": "Organization",
+        "name": "Fantasy Robot Fighter",
+		"url": "http://www.fantasyrobotfighter.com",
+		"logo": {
+		    "@type": "ImageObject",
+		    "url": "https://www.fantasyrobotfighter.com/assets/images/avatar.png",
+		    "width": 80,
+		    "height": 80
+		}
+    },
+ "datePublished": "2019-04-25",
+ "dateCreated": "2019-04-25",
+ "dateModified": "2019-04-25",
+ "description": "Rewriting an RPG I wrote over 27 years ago when I was a kid.",
+ "articleBody": "When I was a young lad of preteen years I had sufficient lack of funds and a blooming desire to play tabletop RPGs. So, in order to have a game to play, I got out my pencils and spiral notebooks and wrote my own. It was a simple game about robots at war heavily inspired by Transformers and other robotic beings from the 1980s and 90s. These robots were called the Tribots and they had broken into factions on their planet of metal and continually met each other in brutally epic confrontations.",
+   "author": {
+    "@type": "Person",
+    "name": "Ryan Buller"
+  }
+ }
+</script>
+
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
