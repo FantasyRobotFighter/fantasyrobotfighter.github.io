@@ -36,41 +36,7 @@ So that pretty much deconstructs the page. This post is pretty long so I'll wrap
 
 In my next post on SEO, I'll be plucking the Medium article that appeared in our results and picking it apart to talk about which meta tags are the best to use and why keywords are worthless. This only scratches the surface of SEO but it's a great place to start and it helps Google start defining your content to weigh it for relevance. Thanks for reading and feel free to reach out to me on [Twitter](https://twitter.com/FantasyBotFight) and ask me a question or let me know about your own experiences with search optimization.
 
-<script type="application/ld+json">
-{ "@context": "https://schema.org", 
- "@type": "BlogPosting",
- "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.fantasyrobotfighter.com/"
-      },
- "headline": "The Ordained",
- "alternativeHeadline": "SEO for indie game designers",
- "image": "https://www.fantasyrobotfighter.com/assets/images/Study.png",
- "genre": "CreativeWork", 
- "keywords": "SEO indie RPG game design", 
- "wordcount": "344",
- "publisher": {	
- 		"@type": "Organization",
-        "name": "Fantasy Robot Fighter",
-		"url": "http://www.fantasyrobotfighter.com",
-		"logo": {
-		    "@type": "ImageObject",
-		    "url": "https://www.fantasyrobotfighter.com/assets/images/avatar.png",
-		    "width": 80,
-		    "height": 80
-		}
-    },
- "datePublished": "2019-05-04",
- "dateCreated": "2019-05-04",
- "dateModified": "2019-05-04",
- "description": "SEO for Indie Game Designers - Part 1",
- "articleBody": "Whether you've noticed it or not, SEO is there and it's contributing in some fashion to your online visibility. It isn't a switch you flip or a web design task you check off your to-do list. It's a continual process of site enhancement that utilizes a whole suite of analytics tools. In fact, Entire jobs are dedicated to optimizing websites for search because the competition is tough and the rules are constantly changing. It's also something I'm not seeing a lot of indie game designers talk about.",
-   "author": {
-    "@type": "Person",
-    "name": "Ryan Buller"
-  }
- }
- </script>
+
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
