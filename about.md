@@ -6,7 +6,7 @@ profile: true
 
 Robots in a fantasy wasteland fighting for scrap and surival...
 <br /><br />
-_What is Fantasy Robot Fighter?_<br />
+__What is Fantasy Robot Fighter?__<br />
 Fantasy Robot Fighter is a blog project for hacking up and designing tabletop role-playing games. I'll also be writing about Search Engine Optimization (SEO) and how the indie game designer can use it to their advantage.
 <br /><br />
 __Who am I?__<br />
