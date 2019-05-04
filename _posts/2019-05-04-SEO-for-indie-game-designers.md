@@ -4,7 +4,7 @@ date:   2019-05-04 10:18:00
 description: What is SEO and why aren't independent RPG designers talking about it?
 ---
 
-![MS. Study - Paul Avril](https://fantasyrobotfighter.github.io/assets/images/Study.png)
+![Study - Paul Avril](https://fantasyrobotfighter.github.io/assets/images/Study.jpg)
 
 #What is SEO?
 Search Engine Optimization (or SEO) is the unremitting practice of trying to increase your online traffic by making your website more relevant to search engines (but mostly Google). 
@@ -70,6 +70,7 @@ In my next post on SEO, I'll be plucking the Medium article that appeared in our
     "name": "Ryan Buller"
   }
  }
+ </script>
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
