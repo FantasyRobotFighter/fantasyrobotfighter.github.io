@@ -16,8 +16,8 @@ Search Engine Optimization (or SEO) is the unremitting practice of trying to inc
         "@type": "WebPage",
         "@id": "https://www.fantasyrobotfighter.com/2019/SEO-for-indie-game-designers/"
       },
- "headline": "SEO for Indie Game Designers - Part 1",
- "alternativeHeadline": "SEO for Independent Role-Playing Game Designers",
+ "headline": "SEO for Indie Game Designers - Index",
+ "alternativeHeadline": "SEO for The Indie Game Designer",
  "image": "https://www.fantasyrobotfighter.com/assets/images/PocketPerspective.png",
  "genre": "CreativeWork", 
  "keywords": "Search Engine Optimization SEO RPG Indie Game Design", 
@@ -35,7 +35,7 @@ Search Engine Optimization (or SEO) is the unremitting practice of trying to inc
  "datePublished": "2019-05-04",
  "dateCreated": "2019-05-04",
  "dateModified": "2019-05-04",
- "description": "SEO for The Indie Game Designer",
+ "description": "An index of blog posts that covers SEO for independent tabletop role-playing game designers",
  "articleBody": "Index page to my series on SEO for the independent tabletop role-playing game designer and blogger.",
    "author": {
     "@type": "Person",
