@@ -6,7 +6,10 @@ description: Expanding upon the Mutant Crawl Classics manimal sub-type table
 
 ![A Good Monk - Wilhelm von Kaulbach](https://fantasyrobotfighter.github.io/assets/images/AGoodMonk.png)
 
+
 As someone who grew up playing Palladium RPGs like Heros Unlimited, Rifts, and After the Bomb, I felt right at home reading through the random insanity that is Mutant Crawl Classics. I’d been wanting a game that could present a setting and rules for mutant animals with the same gonzo style that Palladium did for TMNT (The Feral RPG is another good one). However, as exciting as it was to read about MCC’s manimal class, I couldn’t help but feel the list of choices was a tad too small for my taste. There is a lot of potential to expand upon manimals and so I couldn’t resist home-brewing up a new Manimal Sub-Type table (p.20 of the MCC core rulebook) to offer an expanded selection of mutant animals players can roll for. 
+
+<h1>Expanded MCC Manimal Sub-Type Table</h1>
 
 <table>
 	<tr>
