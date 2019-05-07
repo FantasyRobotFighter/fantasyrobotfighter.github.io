@@ -5,12 +5,12 @@ description: Work in progress
 ---
 
 <h1>What Are Meta Tags?</h1>
-Meta tags are HTML elements whose attributes and values construe the significance and purpose of your website when interpreted or utilized by a data-driven web service. 
+Meta tags are HTML elements whose attributes and values construe the significance and purpose of your website when interpreted by a web service. 
 
-Meta tags allow other places on the web that may be displaying information about your website to know how to list and describe it. In particular, Google search results utilize your meta tags when listing your website in a search query. There is a reasonable amount of different meta tags but for the purposes of this article, we'll focus on the ones that affect Google and social media sites. Let's start by analyzing a bit of HTML from the Modiphius Games home page.
+Meta tags allow other places on the web that may be displaying information about your website to know how to list and describe it. In particular, Google search results utilize your meta tags when listing your website in a search query. There are a reasonable amount of different meta tags that can be added to your website but for the purposes of this article, we'll focus on the main ones that affect your appearance in Google search results and on social media. Let's start by analyzing a bit of HTML from the Modiphius Games home page.
 
 <h1>Title and Description Properties</h1>
-First off are the __title__ element and __description__ meta tag.
+Modiphius has a nice chunk of meta tags one could wade through and learn a little from. You can look at them by doing a "view source" on their main page. It's all right there. I've pulled a handful out for us to examine. First off are the __title__ element and __description__ meta tags.
 
 ```html
 <title>Modiphius - GAMES </title>
@@ -18,17 +18,17 @@ First off are the __title__ element and __description__ meta tag.
 <meta name="description" content="The British games publisher of Achtung! Cthulhu and other roleplaying games, novels and merchandise" />
 ```
 
-These are pretty self-explanatory. These are what Google will be used to display the Modiphius main page in a search query. So They'll appear like this:
+These are pretty self-explanatory and what Google uses to display a description of the Modiphius main page in a search query. So These will translate over to look like this:
 
 [Meta Tag Results](/assets/images/Modphius.jpg)
 
-Now technically the <title> tag is not an official meta tag but it definitely works alongside them. Obviously, this is the title of the web page you're on. Google will use the meta tag with the title attribute if it's there and the page's title tag if it is not. Here's a meta tag with the title property.
+Now technically the <title> element is not an official meta tag but it definitely works alongside them. Obviously, this is the title of the web page you're on. Alternatively, Google will use the meta tag with the title attribute if it's there instead of the <title> element. Here's an example of a meta tag with the __title__ property.
 
 ```html
 <meta property="title" content="Modiphius" />
 ```
 
-The title and description are important because they are that first point of contact for a potential customer searching on Google. It might just be the first description someone sees of you. You have a good 100-150 characters to describe yourself here. Google doesn't have an official limit to the number of characters that can be in a description, but it will decide how much of your description it will display based on of its many mysterious relevancy algorithms. If you want a long description I'd suggest getting a base on in at under 120 characters and then dropping another 120 characters that expand on that description. Then at least the first half will display even if the second half does not.
+The __title__ and __description__ become that first point of contact for a potential customer searching Google for you or your products. It's potentially the first description of your business a customer will experience. Google allows a good 100-150 characters to describe yourself with a __description__ meta tag. It's not that Google has an official limit to the number of characters that can be in a __description__, but it will decide how much of your description to display based on of its many mysterious relevancy algorithms. This means a really long __description__ can be cut off prematurely. If you feel you need a long description then general rule-of-thumb is to get a base description in at under 120 characters and then write in another 120 characters that expand on that description for a total of 240 characters. Then at least the first half may fully display even if the second half does not.
 
 <h1>Open Graph Meta Tags</h1>
 If you look at the source on the Modiphius home page you'll see some similar meta tags that look like this:
@@ -39,7 +39,7 @@ If you look at the source on the Modiphius home page you'll see some similar met
 <meta property="og:description" content="The British games publisher of Achtung! Cthulhu and other roleplaying games, novels and merchandise" />
 ```
 
-These are meta tags with the __title__ and __description__ properties again only the "og:" in front of them stands for __Open Graph__ and that means these tags will be used by social media services like Twitter or Facebook to create a feed snippet when the webpage is shared on their service. If I share your page on Twitter then this title and description are what will appear. We can set other things to appear as well with the following extra meta tags:
+These are meta tags with the __title__ and __description__ properties again only with an __og:__ in front of them. "OG" stands for __Open Graph__ and that means these tags will be used by social media services like Twitter or Facebook to create a snippet when the webpage is shared within a customer's social media feed. If I share your page on Twitter then these __og:title__ and __og:description__ meta tags are what will be used to build it. There are other things we would want to appear as well, not just a __title__ and description__.  We would also want an __image__ and a __URL__.
 
 ```html
 <meta property="og:image" content="https://www.modiphius.com/uploads/1/4/0/6/14062642/2635870_orig.png" />
@@ -47,29 +47,25 @@ These are meta tags with the __title__ and __description__ properties again only
 <meta property="og:url" content="https://www.modiphius.com/" />
 ```
 
-These control the image and URL that will appear as part of the feed snippet. If you examine the source once again you'll see the Modiphius web designer has placed quite a few image meta tags in there. Each of these can be used by a different service based on their size. If you want to go the easy route and research all the different sizes later the best thing to do is to create an image whose dimensions are roughly 1200x630 pixels. Currently, these images can be up to 5MB in size but I honestly would make it as light as possible. Under 120KB would be ideal. Once this is set (and it can be different for every page if your CMS allows it) then this image will appear any time someone shares that page on their social media feed. 
+These meta tags control the __image__ and __URL__ that will appear along with the __title__ and __description__ within the customer's feed when they share your page. If you examine the source of the Modiphius home page once again you'll see their web designer has placed quite a few image meta tags in there. Each of these can be used by a different service based on their size. Including, how a bookmarked page might look if dropped onto the screen of a smartphone. If you want to go the easy route and research all the different sizes later the best thing to do is to create an image whose dimensions are roughly 1200x630 pixels. Currently, these images can be up to 5MB in size but I honestly would make it as light as possible. No larger than 120KB would be ideal. Once this is set (and it can be different for every page if your CMS allows it) then this image will appear any time someone shares your page on their social media feed. 
 
-The "og:url" property designates the URL you want to be scraped for the feed snippet. Whatever URL you put here is what is going to be shown in the posting. Even if it's different from the actual page being shared. The link, in most cases, will still go to the page you're sharing. So, for example, if I shared this page on my Twitter feed it would look a lot like this:
+The __og:url__ property designates the URL you want to be shown in the post even if it's different from the actual page being shared. So, for example, if I shared this page on my Twitter feed it would look a lot like this:
 
 [This page shared on Twitter](assets/images/sharedpage.jpg)
 
 The link in my feed will go to the page but fantasyrobotfighter.com is what appears in the post. Facebook may do this differently, I'm not certain, but a quick and easy test is all you need to do to find out.
 
 <h1>The Thing About Keywords</h1>
-Keywords do matter but not here and not in meta tags. Everyone still puts them in there but Google straight up skips them. Back in the day businesses would abuse keywords but putting anything and everything in there and they quickly became useless. People still use them but my advice is to not waste your time. First, because it's possible, though only rumored, that using meta tag keywords can actually do a bit of harm. It's unlikely but why waste time doing something pointless that has a minor chance of working against you? Second, and this one is more applicable if a competitor checks out your web page's source and can see all the keywords your targeting then you're revealing a small piece of your marketing strategy. It may sound silly, but keywords are useful, just not in meta tags, and if you're trying to optimize for certain words or phrases then maybe don't let the competition know exactly which ones. Here is Modiphius' meta tag for keywords:
+Keywords do matter but not in meta tags. A lot of websites still use them but Google straight up skips them. Back in the day businesses would abuse keywords but putting anything and everything in there and they quickly became useless. My advice is to not waste your time. First, because it's possible, though only rumored, that using meta tag keywords can actually do a bit of harm. It's unlikely but why waste time doing something pointless that has a minor chance of working against you? Second, if a competitor checks out your web page's source and sees all the keywords your targeting then you're revealing a bit of your marketing strategy to them. It may sound silly, but keywords are useful for targeting a specific audience (just not in meta tags) and if you're trying to optimize for certain words or phrases then maybe don't let the competition know exactly which ones. Here is Modiphius' meta tag for keywords:
 
 ```html
 <meta name="keywords" content="Call of Cthulhu, Savage Worlds, Sci-Fi, Horror, Trail of Cthulhu, HP Lovecraft, Achtung! Cthulhu, Cthulhu, WW2, WWII, World War 2, Secret War, Nazi Antarctic Base" />
 ```
 
 <h1> The More The Meta</h1>
-Finally, the last meta tag I want to touch on is the one that handles the __charset__ property. This designates which character set your page is using. "utf-8" is pretty much the standard and if you're using a CMS to build your website then it's probably automatically added. It looks like this:
+There are a lot of different meta tag properties out there for a variety of uses. Some are more utilitarian in nature while others continue to add details to define your website's purpose. The ones I covered here are just to get you started and maybe shed some light on how they work. The great thing is that they are all fairly straight forward and easy to learn and try. You can find a nice comprehensive guide to there at [ogp.me](http://ogp.me/).
 
-```html
-<meta charset="utf-8" />
-```
-
-There are a lot of different meta tag properties out there for a variety of uses. The ones I covered here are just to get you started and maybe shed some light on how they work. The great thing is that they are all fairly straight forward and easy to learn and try. You can find a nice comprehensive guide to there at [ogp.me](http://ogp.me/).
+Next post I want to talk more about Google's Featured Snippets and we can explore what it might take to make your content eligible for display as one. Thanks for reading! As always, drop me any questions or comments at [@fantasybotfight](https://twitter.com/FantasyBotFight) on Twitter.
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
