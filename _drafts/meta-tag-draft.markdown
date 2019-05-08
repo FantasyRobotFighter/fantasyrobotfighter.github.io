@@ -22,7 +22,13 @@ These are pretty self-explanatory and what Google uses to display a description 
 
 [Meta Tag Results](/assets/images/Modphius.jpg)
 
-Now technically the <title> element is not an official meta tag but it definitely works alongside them. Obviously, this is the title of the web page you're on. Alternatively, Google will use the meta tag with the title attribute if it's there instead of the <title> element. Here's an example of a meta tag with the __title__ property.
+Now technically the <title> element is not an official meta tag but it definitely works alongside them. Obviously, this is the title of the web page you're on. Still, titles are not to be taken for granted. Google has a [lot to say](https://support.google.com/webmasters/answer/35624?hl=en) about how they're used and the best way to write them. You want every page of your site to include the <title> element and each should be specific to that page. The best way to write one is to have your brand name and then maybe a short couple word blurb describing what you are. Don't go all out, save that for your description meta tag and if you're not sure just put your brand name as Modiphius does.
+
+```html
+<title>Modiphius - GAMES </title>
+```
+
+Google and web clients will also use the meta tag with the title property. Here's an example of a meta tag with the __title__ property, but it's not a replacement for the <title> html element. You should always include the <title> to have valid HTML. The best practice is to have both. Here is the __title__ meta tag Modiphius uses along with their <title> element.
 
 ```html
 <meta property="title" content="Modiphius" />
