@@ -1,5 +1,6 @@
 ---
 title:  "Testing the Waters"
+layout: post
 date:   2018-10-19 10:18:00
 description: Learning to post again
 ---

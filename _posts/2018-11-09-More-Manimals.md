@@ -1,7 +1,7 @@
 ---
 title:  "More Manimals for MCC"
 date:   2018-11-09 11:22:00
-description: Expanding upon the Mutant Crawl Classics manimal sub-type table
+description: Expanding on the Mutant Crawl Classics manimal sub-type table
 ---
 
 ![A Good Monk - Wilhelm von Kaulbach](https://fantasyrobotfighter.github.io/assets/images/AGoodMonk.png)
