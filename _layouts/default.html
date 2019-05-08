@@ -14,7 +14,7 @@
   <meta property="og:locale" content="en_US" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="google-site-verification" content="xxpIA5QAgoPzO2c1bqD3arCzGeXst7LtPwv5ACWoeEc" />
-  <title>{{ site.name }}{% if page.title %} - {{ page.title }}{% endif %}</title>
+  <title>{% if page.title %} - {{ page.title }}{% endif %}</title>
   <link rel="shortcut icon" href="{{ "/" | relative_url  }}assets/images/favicon.ico">
   <link rel="stylesheet" href="{{ "/" | relative_url  }}assets/css/style.css">
   <link rel="alternate" type="application/rss+xml" title="Fantasy Robot Fighter" href="{{ "/" | relative_url  }}feed.xml">
