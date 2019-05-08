@@ -1,5 +1,5 @@
 ---
-title:  "Adding Flavor To Divination"
+title:  "Adding Flavor To Your Divination Spells"
 date:   2018-10-26 10:45:00
 description: Forboding fromage and bean tossing can be keys to unlocking mysteries
 ---

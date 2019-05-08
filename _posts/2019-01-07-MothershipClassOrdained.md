@@ -1,5 +1,5 @@
 ---
-title:  "The Ordained"
+title:  "The Ordained Class for the Mothership RPG"
 date:   2019-01-08 10:14:00
 description: A religious inspired class for the Mothership RPG
 ---
