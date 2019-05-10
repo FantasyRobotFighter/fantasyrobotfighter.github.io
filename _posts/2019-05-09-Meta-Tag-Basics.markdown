@@ -1,7 +1,7 @@
 ---
-title:  "Meta Tag Draft"
-description: Work in progress
-## date: add a date when publishing
+title:  "SEO for Indie Game Designers - Part 2 - Meta Tag Basics"
+date:   2019-05-09 10:18:00
+description: Take advantage of how Google and social media services display your website with meta tags.
 ---
 
 <h1>What Are Meta Tags?</h1>
