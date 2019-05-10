@@ -1,7 +1,7 @@
 ---
 title:  "Adding Flavor To Your Divination Spells"
 date:   2018-10-26 10:45:00
-description: Forboding fromage and bean tossing can be keys to unlocking mysteries
+description: Forboding fromage and bean tossing can be keys to unlocking mysteries.
 ---
 
 ![Upon the Large Skull - Arthur Rackham](https://fantasyrobotfighter.github.io/assets/images/UponLargeSkull.jpg)
