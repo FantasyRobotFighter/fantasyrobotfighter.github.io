@@ -1,5 +1,5 @@
 ---
-title:  "SEO for Indie Game Designers - Part 2 - Meta Tag Basics"
+title:  "SEO for Indie Game Designers - Meta Tag Basics"
 date:   2019-05-09 10:18:00
 description: Take advantage of how Google and social media services display your website with meta tags.
 ---

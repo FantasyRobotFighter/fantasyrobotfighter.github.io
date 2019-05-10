@@ -1,5 +1,5 @@
 ---
-title:  "SEO for Indie Game Designers - Part 1 - Introduction"
+title:  "SEO for Indie Game Designers - Introduction to SEO"
 date:   2019-05-04 10:18:00
 description: What is SEO and why aren't independent RPG designers talking about it?
 ---
