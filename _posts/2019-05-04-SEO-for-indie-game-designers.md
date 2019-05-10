@@ -44,7 +44,7 @@ In my next post on SEO, I'll covering about Meta tags and talking about which ar
         "@type": "WebPage",
         "@id": "https://www.fantasyrobotfighter.com/2019/SEO-for-indie-game-designers/"
       },
- "headline": "SEO for Indie Game Designers - Part 1",
+ "headline": "SEO for Indie Game Designers - Part 1 - Introduction to SEO",
  "alternativeHeadline": "SEO for Independent Tabletop Role-Playing Game Designers and Bloggers",
  "image": "https://www.fantasyrobotfighter.com/assets/images/PocketPerspective.png",
  "genre": "CreativeWork", 

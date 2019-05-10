@@ -85,5 +85,41 @@ There are a lot of different meta tag properties out there for a variety of uses
 
 Next post I want to talk more about Google's Featured Snippets and we can explore what it might take to make your content eligible for display as one. Thanks for reading! As always, drop me any questions or comments at [@fantasybotfight](https://twitter.com/FantasyBotFight) on Twitter.
 
+<script type="application/ld+json">
+{ "@context": "https://schema.org", 
+ "@type": "BlogPosting",
+ "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.fantasyrobotfighter.com/2019/SEO-for-indie-game-designers/"
+      },
+ "headline": "SEO for Indie Game Designers - Part 2 - Meta Tag Basics",
+ "alternativeHeadline": "Take advantage of how Google and social media services display your website with meta tags.",
+ "image": "https://www.fantasyrobotfighter.com/assets/images/PocketPerspective.png",
+ "genre": "CreativeWork", 
+ "keywords": "Search Engine Optimization SEO RPG Indie Game Design", 
+ "wordcount": "1350",
+ "publisher": {	
+ 		"@type": "Organization",
+        "name": "Fantasy Robot Fighter",
+		"url": "http://www.fantasyrobotfighter.com",
+		"logo": {
+		    "@type": "ImageObject",
+		    "url": "https://www.fantasyrobotfighter.com/assets/images/avatar.png",
+		    "width": 80,
+		    "height": 80
+		}
+    },
+ "datePublished": "2019-05-09",
+ "dateCreated": "2019-05-09",
+ "dateModified": "2019-05-09",
+ "description": "What are meta tags?",
+ "articleBody": "Meta tags allow other places on the web that may be displaying information about your website to know how to list and describe it. In particular, Google search results utilize your meta tags when listing your website in a search query. There are a quite a few meta tags that can be added to your website but for the purposes of this blog post, we'll focus on the main ones that affect your appearance in Google search results and on social media. Let's start by analyzing a bit of HTML from the Modiphius Games home page.",
+   "author": {
+    "@type": "Person",
+    "name": "Ryan Buller"
+  }
+ }
+</script>
+
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
