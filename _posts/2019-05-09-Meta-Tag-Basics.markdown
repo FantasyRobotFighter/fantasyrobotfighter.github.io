@@ -4,6 +4,8 @@ date:   2019-05-09 10:18:00
 description: Take advantage of how Google and social media services display your website with meta tags.
 ---
 
+![Study - Paul Avril](https://fantasyrobotfighter.github.io/assets/images/Meta.jpg)
+
 <h1>What Are Meta Tags?</h1>
 Meta tags are HTML elements whose attributes and values construe the significance and purpose of your website when interpreted by a web service. 
 
@@ -20,7 +22,7 @@ For reference purposes, I thought [Modiphius Games](https://www.modiphius.com) h
 
 These are pretty self-explanatory and these are what Google uses to display a description of the Modiphius main page in a search snippet on a query page. So These will translate over to look like this:
 
-[Meta Tag Results](/assets/images/ModiphiusResult.jpg)
+![Meta Tag Results](/assets/images/ModiphiusResult.jpg)
 
 Now technically the __title__ element doesn't really look like a meta tag but it definitely works like one. Obviously, this is the title of the web page you're on, but it's a little more than that and it's important to know that titles should not be taken for granted. Google has a [lot to say](https://support.google.com/webmasters/answer/35624?hl=en) about how they're used and the best way to write them. You want every page of your site to include the __title__ element and each should be specific to that page. Don't duplicate the same title on every page. The best way to write one is to have your brand name and then maybe a short couple word blurb describing what you are. Don't go all out, save that for your description meta tag and if you're not sure just starting by putting your brand name like Modiphius does.
 
@@ -69,7 +71,7 @@ These meta tags control the __image__ and __URL__ that will appear along with th
 
 The __og:url__ property designates the URL you want to be shown in the post even if it's different from the actual page being shared. So, for example, if I shared this page on my Twitter feed it would look a lot like this:
 
-[This page shared on Twitter](assets/images/SharedPage.jpg)
+![This page shared on Twitter](assets/images/SharedPage.jpg)
 
 The link in my feed will go to the page but fantasyrobotfighter.com is what appears in the post. It just tells whoever is clicking on it where they're going. Facebook may do this differently, I'm not certain, but a quick and easy test is all you need to do to find out (I'm not actually on Facebook because practicing dark magic dramatically shortens your lifespan).
 

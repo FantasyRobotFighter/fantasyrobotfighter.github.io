@@ -73,5 +73,7 @@ In my next post on SEO, I'll covering about Meta tags and talking about which ar
  }
 </script>
 
+[Learn the basics of meta tags in part 2 of this series](https://www.fantasyrobotfighter.com/2019/Meta-Tag-Basics/)
+
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
