@@ -22,7 +22,7 @@ These are pretty self-explanatory and these are what Google uses to display a de
 
 [Meta Tag Results](/assets/images/ModiphiusResult.jpg)
 
-Now technically the <title> element doesn't really look like a meta tag but it definitely works like one. Obviously, this is the title of the web page you're on, but it's a little more than that and it's important to know that titles should not be taken for granted. Google has a [lot to say](https://support.google.com/webmasters/answer/35624?hl=en) about how they're used and the best way to write them. You want every page of your site to include the <title> element and each should be specific to that page. Don't duplicate the same title on every page. The best way to write one is to have your brand name and then maybe a short couple word blurb describing what you are. Don't go all out, save that for your description meta tag and if you're not sure just starting by putting your brand name like Modiphius does.
+Now technically the __title__ element doesn't really look like a meta tag but it definitely works like one. Obviously, this is the title of the web page you're on, but it's a little more than that and it's important to know that titles should not be taken for granted. Google has a [lot to say](https://support.google.com/webmasters/answer/35624?hl=en) about how they're used and the best way to write them. You want every page of your site to include the __title__ element and each should be specific to that page. Don't duplicate the same title on every page. The best way to write one is to have your brand name and then maybe a short couple word blurb describing what you are. Don't go all out, save that for your description meta tag and if you're not sure just starting by putting your brand name like Modiphius does.
 
 ```html
 <title>Modiphius - GAMES </title>
@@ -34,7 +34,7 @@ Or maybe you have an OSR review blog. Something like this would work on your mai
 <title>Captain Bob's OSR Review Blog</title>
 ```
 
-Google and web clients will also use the meta tag with the title property. Here's an example of a meta tag with the __title__ property, but it's not a replacement for the <title> html element. You should always include the <title> to have valid HTML. The best practice is to have both. Here is the __title__ meta tag Modiphius uses along with their <title> element.
+Google and web clients will also use the meta tag with the title property. Here's an example of a meta tag with the __title__ property, but it's not a replacement for the __title__ html element. You should always include the __title__ to have valid HTML. The best practice is to have both. Here is the __title__ meta tag Modiphius uses along with their __title__ element.
 
 ```html
 <meta property="title" content="Modiphius" />
@@ -44,7 +44,7 @@ See how Midiphius removes the "- GAMES" for this one. The important thing here i
 ```html
 <meta property="title" content="Captain Bob's" />
 ```
-Duplicating the <title> tag doesn't hurt either.
+Duplicating the __title__ tag doesn't hurt either.
 
 The __title__ and __description__ become that first point of contact for a potential customer searching Google for you or your products. It's potentially the first description of your business a customer will see and read. So you want to connect with them. Google allows a good 100-150 characters to describe yourself with a __description__ meta tag. It's not that Google has an official limit to the number of characters that can be in a __description__, but it will decide how much of your description to display based on of its many magical relevancy algorithms. This means a really long __description__ can be cut off prematurely. If you feel you need a long description then a general rule-of-thumb is to get a base description in at under 120 characters and then write in another 100-150 characters that expand on that description for a total of 240 characters. Then at least the first half may fully display even if the second half does not. The goal is to grab a searcher's attention in a way that's relevant to your website. 
 
