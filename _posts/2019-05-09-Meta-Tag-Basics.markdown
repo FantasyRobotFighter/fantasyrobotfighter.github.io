@@ -71,7 +71,7 @@ These meta tags control the __image__ and __URL__ that will appear along with th
 
 The __og:url__ property designates the URL you want to be shown in the post even if it's different from the actual page being shared. So, for example, if I shared this page on my Twitter feed it would look a lot like this:
 
-![This page shared on Twitter](assets/images/SharedPage.jpg)
+![This page shared on Twitter](/assets/images/SharedPage.jpg)
 
 The link in my feed will go to the page but fantasyrobotfighter.com is what appears in the post. It just tells whoever is clicking on it where they're going. Facebook may do this differently, I'm not certain, but a quick and easy test is all you need to do to find out (I'm not actually on Facebook because practicing dark magic dramatically shortens your lifespan).
 
