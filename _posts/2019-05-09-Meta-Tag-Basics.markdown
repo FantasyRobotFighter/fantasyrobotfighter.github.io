@@ -1,7 +1,9 @@
 ---
+layout: post
 title:  "Meta Tag Basics"
 date:   2019-05-09 10:18:00
 description: Take advantage of how Google and social media services display your website with meta tags.
+image: Meta.jpg
 ---
 
 ![Study - Paul Avril](https://fantasyrobotfighter.github.io/assets/images/Meta.jpg)

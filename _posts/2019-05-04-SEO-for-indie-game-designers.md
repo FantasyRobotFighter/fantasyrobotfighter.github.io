@@ -1,7 +1,9 @@
 ---
+layout: post
 title:  "SEO for Indie Game Designers"
 date:   2019-05-04 10:18:00
 description: What is SEO and why aren't independent RPG designers talking about it?
+image: Study.jpg
 ---
 
 ![Study - Paul Avril](https://fantasyrobotfighter.github.io/assets/images/Study.jpg)

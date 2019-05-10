@@ -2,6 +2,7 @@
 title:  "The Ordained Class for the Mothership RPG"
 date:   2019-01-08 10:14:00
 description: A religious inspired class for the Mothership RPG.
+image: PocketPerspective.png
 ---
 
 ![MS. I Took Out My Pocket-Perspective - Paul Gavarni](https://fantasyrobotfighter.github.io/assets/images/PocketPerspective.png)

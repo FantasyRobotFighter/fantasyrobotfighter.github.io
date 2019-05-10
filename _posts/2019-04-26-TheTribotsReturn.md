@@ -1,7 +1,9 @@
 ---
+layout: post
 title:  "Return of The Tribots"
 date:   2019-04-25 10:15:00
 description: A homebrew game I made as a kid and am redesigning 28 years later.
+image: JourneyBot.png
 ---
 
 ![MS. Journey Bot in Watercolors - J Ryan Buller](https://fantasyrobotfighter.github.io/assets/images/JourneyBot.png)

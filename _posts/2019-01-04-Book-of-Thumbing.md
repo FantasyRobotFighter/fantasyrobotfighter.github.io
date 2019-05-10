@@ -1,7 +1,9 @@
 ---
+layout: post
 title:  "The Book of Thumbing"
 date:   2019-01-04 12:22:00
 description: A Magically Cursed Item for Dungeon Crawl Classics.
+image: FoundinaBottle.png
 ---
 
 ![MS. Found in a Bottle. - Hermann Wögel](https://fantasyrobotfighter.github.io/assets/images/FoundinaBottle.png)
