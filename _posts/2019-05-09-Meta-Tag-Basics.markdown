@@ -85,7 +85,7 @@ Keywords do matter but not in meta tags. A lot of websites still use them but Go
 <h1>The More The Meta</h1>
 There are a lot of different meta tag properties out there for a variety of uses. Some are more utilitarian in nature while others continue to add details to define your website's purpose. The ones I covered here are just to get you started and maybe shed some light on how they work. The great thing is that they are all fairly straight forward and easy to learn and try. You can find a nice comprehensive guide to there at [ogp.me](http://ogp.me/). If you took anything away from this post I hope it's that meta tags are a small but important part of your digital marketing strategy and the way your use them matters.
 
-Next post I want to talk more about Google's Featured Snippets and we can explore what it might take to make your content eligible for display as one. Thanks for reading! As always, drop me any questions or comments at [@fantasybotfight](https://twitter.com/FantasyBotFight) on Twitter.
+Next post I want to talk more about __Keywords__ and the best ways to implement them. From there I think I'll be able to naturally progress into Google's Featured Snippets. Thanks for reading! As always, drop me any questions or comments at [@fantasybotfight](https://twitter.com/FantasyBotFight) on Twitter.
 
 <script type="application/ld+json">
 { "@context": "https://schema.org", 
