@@ -22,7 +22,7 @@ For reference purposes, I thought [Modiphius Games](https://www.modiphius.com) h
 <meta name="description" content="The British games publisher of Achtung! Cthulhu and other roleplaying games, novels and merchandise" />
 ```
 
-These are pretty self-explanatory and these are what Google uses to display a description of the Modiphius main page in a search snippet on a query page. So These will translate over to look like this:
+These are pretty self-explanatory and these are what Google uses to display a description of the Modiphius main page in a search snippet on a SERP or Search Engine Results Page. So These tags will translate to look like this on a Google SERP:
 
 ![Meta Tag Results](/assets/images/ModiphiusResult.jpg)
 
@@ -48,9 +48,9 @@ See how Midiphius removes the "- GAMES" for this one. The important thing here i
 ```html
 <meta property="title" content="Captain Bob's" />
 ```
-Duplicating the __title__ tag doesn't hurt either.
+Reiterating the content of the __title__ tag doesn't hurt either.
 
-The __title__ and __description__ become that first point of contact for a potential customer searching Google for you or your products. It's potentially the first description of your business a customer will see and read. So you want to connect with them. Google allows a good 100-150 characters to describe yourself with a __description__ meta tag. It's not that Google has an official limit to the number of characters that can be in a __description__, but it will decide how much of your description to display based on of its many magical relevancy algorithms. This means a really long __description__ can be cut off prematurely. If you feel you need a long description then a general rule-of-thumb is to get a base description in at under 120 characters and then write in another 100-150 characters that expand on that description for a total of 240 characters. Then at least the first half may fully display even if the second half does not. The goal is to grab a searcher's attention in a way that's relevant to your website. 
+The __title__ and __description__ become that first point of contact for a potential customer searching Google for you or your products. It's potentially the first description of your business a customer will see and read on the Search Engine Results Page. So you want to connect with them. Google allows a good 100-150 characters to describe yourself with a __description__ meta tag. It's not that Google has an official limit to the number of characters that can be in a __description__, but it will decide how much of your description to display based on of its many magical relevancy algorithms. This means a really long __description__ can be cut off prematurely. If you feel you need a long description then a general rule-of-thumb is to get a base description in at under 120 characters and then write in another 100-150 characters that expand on that description for a total of 240 characters. Then at least the first half may fully display even if the second half does not. The goal is to grab a searcher's attention in a way that's relevant to your website. 
 
 <h1>Open Graph Meta Tags</h1>
 If you look at the source on the Modiphius home page you'll see some meta tags similar to __title__ and __description__ that look like this:
