@@ -11,6 +11,8 @@ Fantasy Robot Fighter is a blog project for hacking up and designing tabletop ro
 <br /><br />
 __Who am I?__<br />
 I'm a guy with a degree in art, a background in fulfillment and inventory and a full-time job on a marketing team designing emails and maintaining a website. I also grew up playing tabletop RPGs and enjoy writing.
+<br /><br />
+All the art featured on this blog is either my own or from [Old Book Illustrations](https://www.oldbookillustrations.com/) unless otherwise stated in the blog entry it is featured on.
 
 <script type="application/ld+json">
 {
