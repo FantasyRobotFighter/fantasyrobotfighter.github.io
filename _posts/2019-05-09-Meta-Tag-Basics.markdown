@@ -92,7 +92,7 @@ Next post I want to talk more about __Keywords__ and the best ways to implement 
  "@type": "BlogPosting",
  "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://www.fantasyrobotfighter.com/2019/SEO-for-indie-game-designers/"
+        "@id": "https://www.fantasyrobotfighter.com/2019/Meta-Tag-Basics/"
       },
  "headline": "SEO for Indie Game Designers - Part 2 - Meta Tag Basics",
  "alternativeHeadline": "Take advantage of how Google and social media services display your website with meta tags.",
