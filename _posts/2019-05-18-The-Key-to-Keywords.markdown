@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Key to Keywords"
+title:  "SEO and Keywords"
 date:   2019-05-18 10:18:00
 description: Utilize relevant keywords to assist your ranking on Search Engine Result Pages.
 image: Meta.jpg
@@ -74,7 +74,7 @@ Thanks again for reading! If you want to connect or ask questions you can find m
         "@type": "WebPage",
         "@id": "https://www.fantasyrobotfighter.com/2019/The-Key-to-Keywords/"
       },
- "headline": "SEO for Indie Game Designers - Part 3 - The Key to Keywords",
+ "headline": "SEO for Indie Game Designers - Part 3 - SEO and Keywords",
  "alternativeHeadline": "Utilize relevant keywords to assist your ranking on Search Engine Result Pages.",
  "image": "https://www.fantasyrobotfighter.com/assets/images/.png",
  "genre": "CreativeWork", 

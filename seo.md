@@ -11,7 +11,7 @@ Search Engine Optimization (or SEO) is the unremitting practice of trying to inc
 <h3>SEO for Indie Game Designers</h3>
 [Part 1 - Introduction to SEO](https://www.fantasyrobotfighter.com/2019/SEO-for-indie-game-designers/)<br />
 [Part 2 - Meta Tag Basics](https://www.fantasyrobotfighter.com/2019/Meta-Tag-Basics/)<br />
-[Part 3 - The Key to Keywords](https://www.fantasyrobotfighter.com/2019/The-Key-to-Keywords/)<br />
+[Part 3 - SEO and Keywords](https://www.fantasyrobotfighter.com/2019/The-Key-to-Keywords/)<br />
 
 <script type="application/ld+json">
 { "@context": "https://schema.org", 
