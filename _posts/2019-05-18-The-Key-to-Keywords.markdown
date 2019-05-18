@@ -6,7 +6,7 @@ description: Utilize relevant keywords to assist your ranking on Search Engine R
 image: Meta.jpg
 ---
 
-![The Victory: An Early Web Press](https://fantasyrobotfighter.github.io/assets/images/LaVictory.jpg)ß
+![The Victory: An Early Web Press](https://fantasyrobotfighter.github.io/assets/images/LaVictory.jpg)
 
 <h1>What Are Keywords?</h1>
 SEO Keywords are strategically selected and integrated words that are relevant to your website's content and generate site traffic by being used in search queries. 
