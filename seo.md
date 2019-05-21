@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Search Engine Optimization for Tabletop Role-Playing Games
 permalink: seo/
 profile: true
