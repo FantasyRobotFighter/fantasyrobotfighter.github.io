@@ -123,7 +123,7 @@ Next post I want to talk more about __Keywords__ and the best ways to implement 
  }
 </script>
 
-[Learn the basics of SEO keywords in part 3 of this series](https://www.fantasyrobotfighter.com/2019/The-Key-to-Keywords/)
+[Learn the basics of SEO keywords in part 3 of this series](https://www.fantasyrobotfighter.com/2019/SEO-andß-Keywords/)
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
