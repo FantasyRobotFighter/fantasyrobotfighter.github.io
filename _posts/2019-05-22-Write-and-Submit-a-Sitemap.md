@@ -68,7 +68,7 @@ Other options include using a [3rd party tool](https://www.xml-sitemaps.com/) th
 
 Sitemaps are easy to build and submit but I still think they are often overlooked. Hopefully, this little article gets you thinking about yours so you can make sure Google is regularly crawling and indexing your domain. Your pages may not all show up in search results if they're not indexed.
 
-In part 5 of this series on SEO I want to cover Google's Featured Snippets and maybe begin dabbling in a bit of schema. As always, if you have questions or want to chat about TTRPGs you can reach me on [Twitter](https://twitter.com/FantasyBotFight). Thanks for reading!
+In part 5 of this series on SEO I want to cover Google's Featured Snippets and maybe begin dabbling in a bit of schema code. As always, if you have questions or want to chat about TTRPGs you can reach me on [Twitter](https://twitter.com/FantasyBotFight). Thanks for reading!
 
 <script type="application/ld+json">
 { "@context": "https://schema.org", 
