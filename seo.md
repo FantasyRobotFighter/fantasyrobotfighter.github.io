@@ -2,7 +2,6 @@
 layout: post
 title: Search Engine Optimization for Tabletop Role-Playing Games
 permalink: seo/
-profile: true
 description: An index of blog posts exploring SEO for indie RPG designers.
 ---
 
