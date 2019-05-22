@@ -39,21 +39,6 @@ If you want to get fancy you can build one with XML. If you're already fairly fa
     <lastmod>2019-05-19</lastmod>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.fantasyrobotfighter.com/2019/MothershipClassOrdained/</loc>
-    <lastmod>2019-05-19</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.fantasyrobotfighter.com/2018/More-Manimals/</loc>
-    <lastmod>2019-05-19</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://www.fantasyrobotfighter.com/2019/TheTribotsReturn/</loc>
-    <lastmod>2019-05-19</lastmod>
-    <priority>0.5</priority>
-  </url>
 </urlset>
 ```
 
