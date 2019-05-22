@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Write and Submit a Sitemape"
-date:   2019-05-04 10:18:00
+title:  "Write and Submit a Sitemap"
+date:   2019-05-22 07:35:00
 description: Create a sitemap for your domain and submit it to Google Search Console
 image:  Hat.jpg
 ---
