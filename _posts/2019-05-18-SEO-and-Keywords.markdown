@@ -103,7 +103,7 @@ Thanks again for reading! If you want to connect or ask questions you can find m
  }
 </script>
 
-[Build a sitemap and submit it to Google in part 4 of this series on SEO for indie game designers.](https://www.fantasyrobotfighter.com/2019/write-and-Submit-a-Sitemap/)
+[Build a sitemap and submit it to Google in part 4 of this series on SEO for indie game designers.](https://www.fantasyrobotfighter.com/2019/Write-and-Submit-a-Sitemap/)
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
