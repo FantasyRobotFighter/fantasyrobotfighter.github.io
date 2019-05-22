@@ -66,7 +66,7 @@ A fair assessment. Sometimes, one does not simply write a sitemap. The good news
 
 Other options include using a [3rd party tool](https://www.xml-sitemaps.com/) that will crawl your website and create one for you. These tools are great but often times they plop their copyright jargon and website name on your sitemap as well, and even though it doesn't really hurt anything, it's a bit annoying for something that could be created on your own. Still, if your site is huge and you've no other option, this is a reasonable one. A quick google search for "sitemap generator" and you'll find loads of other options to try out and test. Also, Google has a handful of [support pages](https://support.google.com/webmasters/answer/156184?hl=en&ref_topic=4581190) on sitemaps that are easy to read and quite helpful should you need a good reference. 
 
-Sitemaps are easy to build and submit but I still think they are often overlooked. Hopefully, this little article gets you thinking about yours so you can make sure Google is regularly crawling and indexing your domain. Your pages won't show up on search results if they're not indexed.
+Sitemaps are easy to build and submit but I still think they are often overlooked. Hopefully, this little article gets you thinking about yours so you can make sure Google is regularly crawling and indexing your domain. Your pages may not all show up in search results if they're not indexed.
 
 In part 5 of this series on SEO I want to cover Google's Featured Snippets and maybe begin dabbling in a bit of schema. As always, if you have questions or want to chat about TTRPGs you can reach me on [Twitter](https://twitter.com/FantasyBotFight). Thanks for reading!
 
