@@ -8,7 +8,7 @@ description: An index of blog posts exploring SEO for indie RPG designers.
 <h1>What is SEO?</h1>
 Search Engine Optimization (or SEO) is the unremitting practice of trying to increase your online traffic by making your website more relevant to search engines (but mostly Google). 
 
-This series of posts are meant to introduce Search Engine Optimization to independent tabletop role-playing game designers and writers who need a practical and easy approach to improving their search engine rankings and increasing their visibility. 
+This series of posts are meant to introduce Search Engine Optimization to independent tabletop role-playing game designers and writers who need a practical and easy approach to improving their search engine rankings and increasing visibility. 
 
 <h3>SEO for Indie Game Designers</h3>
 [Part 1 - Introduction to SEO](https://www.fantasyrobotfighter.com/2019/SEO-for-indie-game-designers/)<br />
