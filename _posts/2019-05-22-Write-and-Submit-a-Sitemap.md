@@ -8,7 +8,7 @@ image:  Hat.jpg
 
 ![My Hat and Wig - Robert Seaver ](https://fantasyrobotfighter.github.io/assets/images/Hat.jpg)
 
-<h1>What Are Sitemaps?</h1
+<h1>What Are Sitemaps?</h1>
 Sitemaps are a UTF-8 encoded XML or TXT file that assist search engines in crawling and indexing your website. They are relatively simple to create and are not much more than a list of every URL or HTML file your site is comprised of (or that you want to tell Google is comprised of).
 
 <h1>How To Build A Sitemap</h1>
