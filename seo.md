@@ -13,6 +13,7 @@ Search Engine Optimization (or SEO) is the unremitting practice of trying to inc
 [Part 1 - Introduction to SEO](https://www.fantasyrobotfighter.com/2019/SEO-for-indie-game-designers/)<br />
 [Part 2 - Meta Tag Basics](https://www.fantasyrobotfighter.com/2019/Meta-Tag-Basics/)<br />
 [Part 3 - SEO and Keywords](https://www.fantasyrobotfighter.com/2019/SEO-and-Keywords/)<br />
+[Part 4 - Write and Submit a Sitemap](https://www.fantasyrobotfighter.com/2019/Write-and-Submit-a-Sitemap/)<br />
 
 <script type="application/ld+json">
 { "@context": "https://schema.org", 
