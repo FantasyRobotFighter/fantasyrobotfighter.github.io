@@ -12,7 +12,7 @@ image:  Hat.jpg
 Sitemaps are a UTF-8 encoded XML or TXT file that assist search engines in crawling and indexing your website. They are relatively simple to create and are not much more than a list of every URL or HTML file your site is comprised of (or that you want to tell Google is comprised of).
 
 <h1>How To Build A Sitemap</h1>
-The easiest way to make a sitemap is just open a text editor and drop in the URL for each page of your website you'd like to have indexed. Build a list of your webpages and save it as a UTF-8 encoded TXT file. It will look like this (but likely be a much longer list):
+The easiest way to make a sitemap is to open a text editor and drop in the URL for each page of your website you'd like to have indexed. Build a list of your webpages and save it as a UTF-8 encoded TXT file. It will look like this (but likely be a much longer list):
 
 ```html
 http://www.osrplanet.com/index.html
@@ -113,7 +113,7 @@ In part 5 of this series on SEO I want to cover Google's Featured Snippets and m
  "dateCreated": "2019-05-22",
  "dateModified": "2019-05-22",
  "description": "Are Game Designers Using SEO?",
- "articleBody": "Sitemaps are a UTF-8 encoded XML or TXT file that assist search engines in crawling and indexing your website. They are relatively simple to create and are not much more than a list of every URL or HTML file your site is comprised of. The easiest way to make a sitemap is just open a text editor and drop in the URL for each page of your website you'd like to have indexed. Build a list of your webpages and save it as a UTF-8 encoded TXT file.",
+ "articleBody": "Sitemaps are a UTF-8 encoded XML or TXT file that assist search engines in crawling and indexing your website. They are relatively simple to create and are not much more than a list of every URL or HTML file your site is comprised of. The easiest way to make a sitemap is to open a text editor and drop in the URL for each page of your website you'd like to have indexed. Build a list of your webpages and save it as a UTF-8 encoded TXT file.",
    "author": {
     "@type": "Person",
     "name": "Ryan Buller"
