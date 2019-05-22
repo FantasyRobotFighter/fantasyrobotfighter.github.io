@@ -2,7 +2,7 @@
 layout: post
 title:  "Write and Submit a Sitemap"
 date:   2019-05-22 07:35:00
-description: Create a sitemap for your domain and submit it to Google Search Console
+description: Create a sitemap for your domain and submit it to Google Search Console.
 image:  Hat.jpg
 ---
 
@@ -93,7 +93,7 @@ In part 5 of this series on SEO I want to cover Google's Featured Snippets and m
         "@id": "https://www.fantasyrobotfighter.com/2019/Write-and-Submit-a-Sitemap/"
       },
  "headline": "SEO for Indie Game Designers - Part 4 - Write and Submit a Sitemap",
- "alternativeHeadline": "Create a sitemap for your domain and submit it to Google Search Console",
+ "alternativeHeadline": "Create a sitemap for your domain and submit it to Google Search Console.",
  "image": "https://www.fantasyrobotfighter.com/assets/images/Hat.jpg",
  "genre": "CreativeWork", 
  "keywords": "SERP Search Engine Optimization SEO RPG Indie Game Design", 
