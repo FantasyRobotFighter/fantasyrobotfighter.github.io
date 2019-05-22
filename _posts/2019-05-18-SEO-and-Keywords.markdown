@@ -3,7 +3,7 @@ layout: post
 title:  "SEO and Keywords"
 date:   2019-05-18 10:18:00
 description: Utilize relevant keywords to assist your ranking on Search Engine Result Pages.
-image: Meta.jpg
+image: LaVictory.jpg
 ---
 
 ![The Victory: An Early Web Press](https://fantasyrobotfighter.github.io/assets/images/LaVictory.jpg)
@@ -76,7 +76,7 @@ Thanks again for reading! If you want to connect or ask questions you can find m
       },
  "headline": "SEO for Indie Game Designers - Part 3 - SEO and Keywords",
  "alternativeHeadline": "Utilize relevant keywords to assist your ranking on Search Engine Result Pages.",
- "image": "https://www.fantasyrobotfighter.com/assets/images/.png",
+ "image": "https://www.fantasyrobotfighter.com/assets/images/LaVictory.jpg",
  "genre": "CreativeWork", 
  "keywords": "Search Engine Optimization SEO RPG Indie Game Design", 
  "wordcount": "1350",
@@ -102,6 +102,8 @@ Thanks again for reading! If you want to connect or ask questions you can find m
   }
  }
 </script>
+
+[Build a sitemap and submit it to Google in part 4 of this series on SEO for indie game designers.](https://www.fantasyrobotfighter.com/2019/write-and-Submit-a-Sitemap/)
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com

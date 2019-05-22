@@ -48,7 +48,7 @@ In my next post on SEO, I'll cover the basics of using Meta Tags and why your ke
       },
  "headline": "SEO for Indie Game Designers - Part 1 - Introduction to SEO",
  "alternativeHeadline": "SEO for Independent Tabletop Role-Playing Game Designers and Bloggers",
- "image": "https://www.fantasyrobotfighter.com/assets/images/PocketPerspective.png",
+ "image": "https://www.fantasyrobotfighter.com/assets/images/Study.jpg",
  "genre": "CreativeWork", 
  "keywords": "Search Engine Optimization SEO RPG Indie Game Design", 
  "wordcount": "1350",
@@ -75,7 +75,7 @@ In my next post on SEO, I'll cover the basics of using Meta Tags and why your ke
  }
 </script>
 
-[Learn the basics of meta tags in part 2 of this series](https://www.fantasyrobotfighter.com/2019/Meta-Tag-Basics/)
+[Learn the basics of meta tags in part 2 of this series on SEO for indie game designers.](https://www.fantasyrobotfighter.com/2019/Meta-Tag-Basics/)
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com

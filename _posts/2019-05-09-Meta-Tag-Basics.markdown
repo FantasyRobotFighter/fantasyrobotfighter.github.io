@@ -96,9 +96,9 @@ Next post I want to talk more about __Keywords__ and the best ways to implement 
       },
  "headline": "SEO for Indie Game Designers - Part 2 - Meta Tag Basics",
  "alternativeHeadline": "Take advantage of how Google and social media services display your website with meta tags.",
- "image": "https://www.fantasyrobotfighter.com/assets/images/PocketPerspective.png",
+ "image": "https://www.fantasyrobotfighter.com/assets/images/Meta.jpg",
  "genre": "CreativeWork", 
- "keywords": "Search Engine Optimization SEO RPG Indie Game Design", 
+ "keywords": "Search Engine Optimization SEO RPG Indie Game Design SERP", 
  "wordcount": "1350",
  "publisher": {	
  		"@type": "Organization",
@@ -123,7 +123,7 @@ Next post I want to talk more about __Keywords__ and the best ways to implement 
  }
 </script>
 
-[Learn the basics of SEO keywords in part 3 of this series](https://www.fantasyrobotfighter.com/2019/SEO-andß-Keywords/)
+[Learn the basics of SEO keywords in part 3 of this series on SEO for indie game designers.](https://www.fantasyrobotfighter.com/2019/SEO-andß-Keywords/)
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
