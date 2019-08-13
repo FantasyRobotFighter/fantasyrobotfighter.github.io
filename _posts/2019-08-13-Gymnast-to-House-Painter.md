@@ -42,7 +42,7 @@ Can of paint (of randomized color)<br />
     <td align="center" width="50" padding="2px"><b>6</b></td>
     <td width="200" padding="2px">Sparkling Glaucous</td>
   </tr>
-</table><br />
+</table>
 
 <b>SKILLS:</b><br />
 4 Acrobatics<br />
