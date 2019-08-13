@@ -11,10 +11,32 @@ image:  Hat.jpg
 There are baseboards and then there are the high places. The cobwebbed corners where wall and ceiling meet on the edge of color. All that can trim that line is the perfect cut-in from a fearless soul who braves the unmeasured heights while teetering on a mass of poorly stacked movables. That soul is you. You are employeed by common house painters for your impeccable balance and steady hand that can cut sharper with a brush than any warrior could cut with their blade. There is no place too high nor ceiling too vaulted for the grace of your physique. 
 
 <b>POSSESSIONS:</b><br />
-Paint brushes<br />
+Paint brushe<br />
 Extendable scraper<br />
 Folding 3-step ladder or stilts<br />
 Flexible white-cotton overalls<br />
+Can of paint (of randomized color)<br />
+
+<table>
+  <tr>
+    <td align="center" width="50" padding="2px"><b>1</b></td><td width="200" padding="2px">Owlbear Arsenic</td>
+  </tr>
+  <tr>
+    <td align="center" width="50" padding="2px"><b>2</b></td><td width="200" padding="2px">Chaotic Falu</td>
+  </tr>
+  <tr>
+    <td align="center" width="50" padding="2px"><b>3</b></td><td width="200" padding="2px">Star Barge Gamboge</td>
+  </tr>
+  <tr>
+    <td align="center" width="50" padding="2px"><b>4</b></td><td width="200" padding="2px">Alzabo Xanadu</td>
+  </tr>
+  <tr>
+    <td align="center" width="50" padding="2px"><b>5</b></td><td width="200" padding="2px">Sea Elf Smaragdine</td>
+  </tr>
+  <tr>
+    <td align="center" width="50" padding="2px"><b>6</b></td><td width="200" padding="2px">Sparkling Glaucous</td>
+  </tr>
+</table><br />
 
 <b>SKILLS:</b><br />
 4 Acrobatics<br />
