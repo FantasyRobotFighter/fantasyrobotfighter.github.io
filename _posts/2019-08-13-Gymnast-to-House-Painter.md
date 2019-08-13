@@ -11,17 +11,17 @@ image:  Hat.jpg
 There are baseboards and then there are the high places. The cobwebbed corners where wall and ceiling meet on the edge of color. All that can trim that line is the perfect cut-in from a fearless soul who braves the unmeasured heights while teetering on a mass of poorly stacked movables. That soul is you. You are employeed by common house painters for your impeccable balance and steady hand that can cut sharper with a brush than any warrior could cut with their blade. There is no place too high nor ceiling too vaulted for the grace of your physique. 
 
 <b>POSSESSIONS:</b><br />
-Paint brushes
-Extendable scraper
-Folding 3-step ladder or stilts
-Flexible white-cotton overalls
+Paint brushes<br />
+Extendable scraper<br />
+Folding 3-step ladder or stilts<br />
+Flexible white-cotton overalls<br />
 
 <b>SKILLS:</b><br />
-4 Acrobatics
-3 Climb
-3 Painting
-2 Strength
-1 Knife fighting
+4 Acrobatics<br />
+3 Climb<br />
+3 Painting<br />
+2 Strength<br />
+1 Knife fighting<br />
 
 <b>SPECIAL:</b> Uncanny Reach<br />
 Somehow, you can reach twice as far as everyone else.
