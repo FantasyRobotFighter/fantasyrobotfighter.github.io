@@ -8,20 +8,17 @@ image:  Hat.jpg
 
 ![The performance of the Gipsies - Gustave Doré](https://fantasyrobotfighter.github.io/assets/images/Acrobats.jpg)
 
-<h1>Gymnast to House Painter</h1><br />
+<h1>Gymnast to House Painter</h1>
 <h3>A Troika RPG Background</h3>
 
-<br /><br />
 There are baseboards and then there are the high places. The cobwebbed corners where wall and ceiling meet on the edge of color. All that can trim that line is the perfect cut-in from a fearless soul who braves the unmeasured heights while teetering on a mass of poorly stacked movables. That soul is you. You are hired by common house painters for your impeccable balance and steady hand that can cut sharper with a brush than any warrior could cut with their blade. There is no place too high nor ceiling too vaulted for the grace of your physique. 
 
-<br /><br />
 <b>POSSESSIONS:</b><br />
 Paint brushes
 Extendable scraper
 Folding 3-step ladder or stilts
 Flexible white-cotton overalls
 
-<br /><br />
 <b>SKILLS:</b><br />
 4 Acrobatics
 3 Climb
@@ -29,11 +26,9 @@ Flexible white-cotton overalls
 2 Strength
 1 Knife fighting
 
-<br /><br />
 <b>SPECIAL:</b> Uncanny Reach<br />
 Uncanny reach. Somehow, you can reach twice as far as everyone else.
-
-<br /><br />
+<br />
 
 <table>
   <tr>
