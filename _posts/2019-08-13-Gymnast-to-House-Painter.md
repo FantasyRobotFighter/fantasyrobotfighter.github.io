@@ -24,7 +24,7 @@ Flexible white-cotton overalls
 1 Knife fighting
 
 <b>SPECIAL:</b> Uncanny Reach<br />
-Uncanny reach. Somehow, you can reach twice as far as everyone else.
+Somehow, you can reach twice as far as everyone else.
 <br />
 
 <table>
