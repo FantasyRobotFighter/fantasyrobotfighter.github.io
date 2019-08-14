@@ -20,27 +20,27 @@ Can of paint (of randomized color)<br />
 <table width="130">
   <tr>
     <td align="center" width="30" padding="2px"><b>1</b></td>
-    <td align="left" width="100" padding="2px">Owlbear Arsenic</td>
+    <td align="left" width="200" padding="2px">Owlbear Arsenic</td>
   </tr>
   <tr>
     <td align="center" width="30" padding="2px"><b>2</b></td>
-    <td align="left" width="100" padding="2px">Chaotic Falu</td>
+    <td align="left" width="200" padding="2px">Chaotic Falu</td>
   </tr>
   <tr>
     <td align="center" width="30" padding="2px"><b>3</b></td>
-    <td align="left" width="100" padding="2px">Star Barge Gamboge</td>
+    <td align="left" width="200" padding="2px">Star Barge Gamboge</td>
   </tr>
   <tr>
     <td align="center" width="30" padding="2px"><b>4</b></td>
-    <td align="left" width="100" padding="2px">Alzabo Xanadu</td>
+    <td align="left" width="200" padding="2px">Alzabo Xanadu</td>
   </tr>
   <tr>
     <td align="center" width="30" padding="2px"><b>5</b></td>
-    <td align="left" width="100" padding="2px">Sea Elf Smaragdine</td>
+    <td align="left" width="200" padding="2px">Sea Elf Smaragdine</td>
   </tr>
   <tr>
     <td align="center" width="30" padding="2px"><b>6</b></td>
-    <td align="left" width="100" padding="2px">Sparkling Glaucous</td>
+    <td align="left" width="200" padding="2px">Sparkling Glaucous</td>
   </tr>
 </table>
 
