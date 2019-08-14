@@ -88,7 +88,7 @@ Somehow, you can reach twice as far as everyone else.
         "@id": "https://www.fantasyrobotfighter.com/2019/Gymnast-to-House-Painter/"
       },
  "headline": "Gymnast to House Painter - A character background for the Troika RPG",
- "alternativeHeadline": "A Troika RPG background inspired by an entry in Britian's first census in 1801.",
+ "alternativeHeadline": "A Troika RPG background inspired by an entry in a British census from 1881.",
  "image": "https://www.fantasyrobotfighter.com/assets/images/Acrobats.jpg",
  "genre": "CreativeWork", 
  "keywords": "Troika RPG Indie Game Design Background Class Gymnast House Painter", 
