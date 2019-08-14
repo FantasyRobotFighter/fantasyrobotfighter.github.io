@@ -2,7 +2,7 @@
 layout: post
 title:  "Gymnast to House Painter"
 date:   2019-08-13 09:35:00
-description: A Troika RPG background inspired by an entry in Britian's first census in 1801.
+description: A Troika RPG background inspired by an entry in a British census from 1881.
 image:  Acrobats.jpg
 ---
 
