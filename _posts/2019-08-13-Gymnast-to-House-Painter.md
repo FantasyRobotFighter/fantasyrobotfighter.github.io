@@ -8,7 +8,7 @@ image:  Acrobats.jpg
 
 ![The performance of the Gipsies - Gustave Doré](https://fantasyrobotfighter.github.io/assets/images/Acrobats.jpg)
 
-There are baseboards and then there are the high places. Be it the cobwebbed corners where wall and ceiling meet on the edge of color or the perilous rooftops of an opulant château, all that can reach that trim is the perfect cut-in from a fearless soul who braves the unmeasured heights while teetering on a mass of poorly stacked movables. That soul is you. You are employeed by common house painters for your impeccable balance and steady hand that can cut sharper with a brush than any warrior could cut with their blade. There is no place too high nor ceiling too vaulted for the grace of your physique. 
+There are baseboards and then there are the high places. Be it the cobwebbed corners where wall and ceiling meet on the edge of color or the perilous rooftops of an opulant château. All that can reach that outlying trim is the perfect cut-in from a fearless soul who's willing to brave unmeasured heights while teetering on a mass of poorly stacked movables. That soul is you. Employed by common house painters for your impeccable balance and your steady hand that cuts sharper with a brush than any warrior could cut with their blade. For there is no place too high nor ceiling too vaulted for the grace of your physique. 
 
 <b>POSSESSIONS:</b><br />
 Paint brush<br />
@@ -108,7 +108,7 @@ Somehow, you can reach twice as far as everyone else.
  "dateCreated": "2019-05-22",
  "dateModified": "2019-05-22",
  "description": "Gymnast to House Painter - A character background for the Troika RPG",
- "articleBody": "There are baseboards and then there are the high places. The cobwebbed corners where wall and ceiling meet on the edge of color. All that can trim that line is the perfect cut-in from a fearless soul who braves the unmeasured heights while teetering on a mass of poorly stacked movables. That soul is you. You were hired for your impeccable balance and steady hand that cuts sharper with a brush than any warrior could cut with their blade. There is no place too high nor ceiling too vaulted for the grace of your physique.",
+ "articleBody": "There are baseboards and then there are the high places. Be it the cobwebbed corners where wall and ceiling meet on the edge of color or the perilous rooftops of an opulant château. All that can reach that outlying trim is the perfect cut-in from a fearless soul who's willing to brave unmeasured heights while teetering on a mass of poorly stacked movables. That soul is you. Employed by common house painters for your impeccable balance and your steady hand that cuts sharper with a brush than any warrior could cut with their blade. For there is no place too high nor ceiling too vaulted for the grace of your physique.",
    "author": {
     "@type": "Person",
     "name": "Ryan Buller"
