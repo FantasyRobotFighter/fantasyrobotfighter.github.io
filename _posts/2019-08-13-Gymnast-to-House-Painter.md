@@ -3,7 +3,7 @@ layout: post
 title:  "Gymnast to House Painter"
 date:   2019-08-13 09:35:00
 description: A Troika RPG background inspired by an entry in Britian's first census in 1801.
-image:  Hat.jpg
+image:  Acrobats.jpg
 ---
 
 ![The performance of the Gipsies - Gustave Doré](https://fantasyrobotfighter.github.io/assets/images/Acrobats.jpg)
@@ -89,7 +89,7 @@ Somehow, you can reach twice as far as everyone else.
       },
  "headline": "Gymnast to House Painter - A character background for the Troika RPG",
  "alternativeHeadline": "A Troika RPG background inspired by an entry in Britian's first census in 1801.",
- "image": "https://www.fantasyrobotfighter.com/assets/images/Hat.jpg",
+ "image": "https://www.fantasyrobotfighter.com/assets/images/Acrobats.jpg",
  "genre": "CreativeWork", 
  "keywords": "Troika RPG Indie Game Design Background Class Gymnast House Painter", 
  "wordcount": "1350",
