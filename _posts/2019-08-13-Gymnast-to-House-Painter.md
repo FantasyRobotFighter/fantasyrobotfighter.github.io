@@ -17,7 +17,7 @@ Folding 3-step ladder or stilts<br />
 Flexible white-cotton overalls<br />
 Can of paint (of randomized color)<br />
 
-<table>
+<table width="130">
   <tr>
     <td align="center" width="30" padding="2px"><b>1</b></td>
     <td align="left" width="100" padding="2px">Owlbear Arsenic</td>
