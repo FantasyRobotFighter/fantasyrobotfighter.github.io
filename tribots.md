@@ -4,6 +4,6 @@ permalink: tribots
 profile: true
 ---
 
-Holding page for information on the RPG I'm build about robots.
+Holding page for information on the TTRPG I'm building about robot scavengers.
 
 {% include footer.html %}
